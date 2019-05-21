@@ -1,0 +1,5 @@
+src/.htaccess
+config/app.php
+bin
+devlopment/config/app.php
+testing/config/app.php

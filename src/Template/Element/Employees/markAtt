@@ -1,0 +1,38 @@
+					<?php
+							$i = 1;	
+							$attend = '';
+							foreach ($child as $key => $value) {
+								//pr($value[0]['attendances']);
+								if(!empty($value[0]['attendances'])){
+									$attend = 'Present';
+								}
+					?>
+					<tr>
+								<td><?=$i ?></td>
+								<td><?= $value[0]->firstname.''.$value->lastname?></td>
+								<td>Reg: 00<?= $value[0]->registration_id?></td>
+								<td>
+									<div class="row">
+										<div class="col-xs-4">
+											<input name="<?= $value->registration_id.'attendance'?>" id="radio_48" class="with-gap radio-col-blue-grey" type="radio" <?php if($attend == 'Present'){echo 'checked';}?>> 
+											<label for="radio_48" class="radio-label">Present</label>
+										</div>
+										<div class="col-xs-4">
+											<input name="<?= $value->registration_id.'attendance'?>" id="radio_49" class="with-gap radio-col-blue-grey" type="radio"> 
+											<label for="radio_49" class="radio-label">Absent</label>
+										</div>
+										<div class="col-xs-4">
+											<input name="<?= $value->registration_id.'attendance'?>" id="radio_50" class="with-gap radio-col-blue-grey" type="radio"> 
+											<label for="radio_50" class="radio-label">Leave</label>
+										</div>
+								
+									</div>
+								</td>
+								
+								<td>
+									<div class="form-group">
+										<input type="text" class="form-control" >
+									</div>
+								</td>
+					</tr>
+					<?php $i++; }?>

@@ -1,0 +1,3159 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-05-03 12:58+0530\n"
+"PO-Revision-Date: 2019-05-15 10:23+0530\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+
+#: Controller/AppController.php:155
+msgid "Extention Not Allowed."
+msgstr "Extentie niet toegestaan."
+
+#: Controller/ClientInfoController.php:51;74 Controller/Admin/ClientInfoController.php:56;80
+#: Controller/Component/ClientInfoController.php:56;80
+msgid "The client info has been saved."
+msgstr "De klantinfo is opgeslagen."
+
+#: Controller/ClientInfoController.php:55;78 Controller/Admin/ClientInfoController.php:60;84
+#: Controller/Component/ClientInfoController.php:60;84
+msgid "The client info could not be saved. Please, try again."
+msgstr "De klantinfo kon niet worden opgeslagen. Probeer het alstublieft nog een keer."
+
+#: Controller/ClientInfoController.php:94 Controller/Admin/ClientInfoController.php:101
+#: Controller/Component/ClientInfoController.php:101
+msgid "The client info has been deleted."
+msgstr "De klantinformatie is verwijderd."
+
+#: Controller/ClientInfoController.php:96 Controller/Admin/ClientInfoController.php:103
+#: Controller/Component/ClientInfoController.php:103
+msgid "The client info could not be deleted. Please, try again."
+msgstr "De klantinformatie kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/UsersController.php:109
+msgid "Not Activated username or password, Contact BSO"
+msgstr "Niet Geactiveerde gebruikersnaam of wachtwoord, neem contact op met BSO."
+
+#: Controller/UsersController.php:113 Controller/Admin/UsersController.php:559;697
+msgid "Invalid username or password, try again"
+msgstr "Ongeldige gebruikersnaam of wachtwoord, probeer het opnieuw."
+
+#: Controller/UsersController.php:383;520
+msgid "You have not selected action"
+msgstr "U heeft geen actie geselecteerd"
+
+#: Controller/UsersController.php:525
+msgid "Please try again!"
+msgstr "Probeer het nog eens!"
+
+#: Controller/UsersController.php:666 Controller/Admin/UsersController.php:674
+#: Controller/Employee/EmployeesController.php:990 Controller/Parent/UsersController.php:313
+msgid "Your profile update successfuly."
+msgstr "Uw profiel update succesvol."
+
+#: Controller/UsersController.php:670 Controller/Admin/UsersController.php:678
+#: Controller/Employee/EmployeesController.php:994 Controller/Parent/UsersController.php:317
+msgid "There are some problem to update profile. Please try again!"
+msgstr "Er zijn een aantal problemen om het profiel te updaten. Probeer het opnieuw!"
+
+#: Controller/UsersController.php:783
+msgid "student has been deleted."
+msgstr "student is verwijderd."
+
+#: Controller/UsersController.php:785
+msgid "student could not be deleted. Please, try again."
+msgstr "student kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/UsersController.php:974
+msgid "Invalid email, try again"
+msgstr "Ongeldige e-mail, probeer het opnieuw"
+
+#: Controller/UsersController.php:1253
+msgid "Parent has been created."
+msgstr "Ouder is gecreëerd."
+
+#: Controller/UsersController.php:1257
+msgid "Parent could not be saved. Please, try again."
+msgstr "Ouder kon niet gered worden. Probeer het alsjeblieft opnieuw."
+
+#: Controller/UsersController.php:1347
+msgid "There are some problem to update Parents. Please try again!"
+msgstr "Er zijn een aantal problemen om Ouders bij te werken. Probeer het opnieuw!"
+
+#: Controller/UsersController.php:1455
+msgid "Guardian has been saved."
+msgstr "De bewaker is gered."
+
+#: Controller/UsersController.php:1459
+msgid "Guardian could not be saved. Please, try again."
+msgstr "De bewaker kon niet gered worden. Probeer het alsjeblieft opnieuw."
+
+#: Controller/UsersController.php:1564;1980 Controller/Parent/UsersController.php:989;1942
+msgid "There are some problem to update Child. Please try again!"
+msgstr "Er is een probleem om Child bij te werken. Probeer het opnieuw!"
+
+#: Controller/UsersController.php:1846
+msgid "Child has been created."
+msgstr "Kind is gecreëerd."
+
+#: Controller/UsersController.php:1851
+msgid "Child could not be created. Please, try again."
+msgstr "Kind kon niet gecreëerd worden. Probeer het alsjeblieft opnieuw."
+
+#: Controller/UsersController.php:2148;2259
+msgid "Service has been saved."
+msgstr "De service is opgeslagen."
+
+#: Controller/UsersController.php:2155;2265
+msgid "This service could not be saved. Please, try again."
+msgstr "Deze dienst kon niet worden opgeslagen. Probeer het opnieuw."
+
+#: Controller/UsersController.php:2157
+msgid "Time slot or Age Group is not valid so it could not be saved. Please, try again."
+msgstr "Tijdslot of leeftijdsgroep is niet geldig en kan dus niet worden opgeslagen. Probeer het opnieuw."
+
+#: Controller/UsersController.php:2537;2542 Controller/Employee/EmployeesController.php:1701
+msgid "Teacher has been deleted from this service."
+msgstr "De leraar is uit deze service verwijderd."
+
+#: Controller/UsersController.php:2545
+msgid "Teacher could not be deleted. Please, try again."
+msgstr "De leraar kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/UsersController.php:2600
+msgid "Service has been deleted."
+msgstr "De service is verwijderd."
+
+#: Controller/UsersController.php:2602
+msgid "Service could not be deleted. Please, try again."
+msgstr "De dienst kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/UsersController.php:3278
+msgid "E-mail not sent. Please, try again."
+msgstr "E-mail niet verzonden. Probeer het opnieuw."
+
+#: Controller/UsersController.php:3996 Controller/Parent/UsersController.php:490
+msgid "success"
+msgstr "succes"
+
+#: Controller/Admin/UsersController.php:301
+msgid "Bso has been deleted."
+msgstr "Bso is verwijderd."
+
+#: Controller/Admin/UsersController.php:303
+msgid "Bso could not be deleted. Please, try again."
+msgstr "Bso kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/Admin/UsersController.php:420
+msgid "BSO has been Created."
+msgstr "BSO is opgericht."
+
+#: Controller/Admin/UsersController.php:426
+msgid "BSO could not be created. Please, try again."
+msgstr "BSO kon niet worden opgericht. Probeer het alsjeblieft opnieuw."
+
+#: Controller/Admin/UsersController.php:539
+msgid "There are some problem to update BSO profile. Please try again!"
+msgstr "Er zijn een aantal problemen om het BSO-profiel bij te werken. Probeer het opnieuw!"
+
+#: Controller/Api/UsersController.php:129
+msgid "You are logged in sucessfully"
+msgstr "U bent met succes ingelogd...."
+
+#: Controller/Api/UsersController.php:136
+msgid "Unable to save token, try login again."
+msgstr "Kan geen token opslaan, probeer opnieuw in te loggen."
+
+#: Controller/Api/UsersController.php:144
+msgid "Unable to generate token, try login again."
+msgstr "Kan geen token genereren, probeer opnieuw in te loggen."
+
+#: Controller/Api/UsersController.php:152
+msgid "Invalid user, you are not allowed to login."
+msgstr "Ongeldige gebruiker, u mag niet inloggen."
+
+#: Controller/Api/UsersController.php:160
+msgid "Your account is not active yet, please check your email and activate your account."
+msgstr "Uw account is nog niet actief, controleer uw e-mail en activeer uw account."
+
+#: Controller/Api/UsersController.php:168
+msgid "Invalid login credentials, try again!"
+msgstr "Ongeldige inloggegevens, probeer het opnieuw!"
+
+#: Controller/Api/UsersController.php:176
+msgid "Password is required."
+msgstr "Wachtwoord is vereist."
+
+#: Controller/Api/UsersController.php:184;264
+msgid "Email is required."
+msgstr "E-mail is vereist."
+
+#: Controller/Api/UsersController.php:192;272;355;650;845;1291;1414;1567;1747;2051;2173;2258;2433;2583;2704;2819;2901;2982;3082;3165;3239;3302;3395;3478;3572;4276;4550;4644;4749;4863;4953;5063;5158;5346
+msgid "Method not allowed"
+msgstr "Methode niet toegestaan"
+
+#: Controller/Api/UsersController.php:248
+msgid "Unable to generate reset password link, try again later."
+msgstr "Niet in staat om een reset-wachtwoord link te genereren, probeer het later opnieuw."
+
+#: Controller/Api/UsersController.php:256
+msgid "No user is associated with this email, enter your right email."
+msgstr "Geen enkele gebruiker is gekoppeld aan deze e-mail, voer uw juiste e-mail in."
+
+#: Controller/Api/UsersController.php:300;591;786;3514;4047;4480;4586;4678
+msgid "Validation error occurs!."
+msgstr "Er treedt een validatiefout op!."
+
+#: Controller/Api/UsersController.php:427
+msgid "New password and confirm password are not matching."
+msgstr "Nieuw wachtwoord en bevestig wachtwoord komen niet overeen."
+
+#: Controller/Api/UsersController.php:435
+msgid "Confirm password is required."
+msgstr "Bevestig het wachtwoord is vereist."
+
+#: Controller/Api/UsersController.php:443
+msgid "New password is required."
+msgstr "Een nieuw wachtwoord is vereist."
+
+#: Controller/Api/UsersController.php:451
+msgid "Current password is required."
+msgstr "Huidig wachtwoord is vereist."
+
+#: Controller/Api/UsersController.php:940;1844;3663
+msgid "Image did not successfully saved!"
+msgstr "Afbeelding is niet succesvol opgeslagen!"
+
+#: Controller/Api/UsersController.php:948;1080;1246;1518;1698;1852;2009;2131;2387;2534;3671;3799
+msgid "Only allowed (jpg,jpeg,png) file type image.."
+msgstr "Alleen toegestaan (jpg,jpeg,jpeg,png) bestandstype afbeelding"
+
+#: Controller/Api/UsersController.php:966;3686
+msgid "Guardian Information Not Saved!"
+msgstr "Voogdij-informatie niet opgeslagen! "
+
+#: Controller/Api/UsersController.php:974;1106;1273;1878;2033;2155;3694;3822;4334;4400
+msgid "Form validation error occurs!"
+msgstr "Formulier validatiefout treedt op!"
+
+#: Controller/Api/UsersController.php:992;1124;1896;3712;3840;3884;4444
+msgid "Method not allowed!"
+msgstr "Methode niet toegestaan!"
+
+#: Controller/Api/UsersController.php:1072;1238;2001;2123;3791
+msgid "Image did not successfully Updated!"
+msgstr "Beeld is niet succesvol bijgewerkt!"
+
+#: Controller/Api/UsersController.php:1098;3814
+msgid "Guardian Information Not Updated!"
+msgstr "Voogdij-informatie niet bijgewerkt!"
+
+#: Controller/Api/UsersController.php:1264;2024
+msgid "Parent Profile Information Not Updated!"
+msgstr "Informatie over het ouderprofiel niet bijgewerkt!"
+
+#: Controller/Api/UsersController.php:1367;2211
+msgid "Validation error occurs."
+msgstr "Er treedt een validatiefout op."
+
+#: Controller/Api/UsersController.php:1541;2557
+msgid "Child data could not be updated."
+msgstr "Gegevens over kinderen konden niet worden bijgewerkt. "
+
+#: Controller/Api/UsersController.php:1550;1729;2415;2566
+msgid "Form validation error occurs"
+msgstr "Fout bij de formuliervalidatie treedt op "
+
+#: Controller/Api/UsersController.php:1720;2406
+msgid "School name not found."
+msgstr "Schoolnaam niet gevonden"
+
+#: Controller/Api/UsersController.php:1870
+msgid "Parent Information Not Saved!"
+msgstr "Oudersinformatie niet opgeslagen! "
+
+#: Controller/Api/UsersController.php:2146
+msgid "Employee Profile Information Not Updated!"
+msgstr "Informatie over het werknemersprofiel niet bijgewerkt!"
+
+#: Controller/Api/UsersController.php:4368
+msgid "User has not buy any plan for Today!"
+msgstr "Gebruiker heeft geen plan gekocht voor vandaag!"
+
+#: Controller/Api/UsersController.php:4839
+msgid "Children invoice listing"
+msgstr "Factuurlijst voor kinderen"
+
+#: Controller/Api/UsersController.php:5037
+msgid "BSO Agrement Data."
+msgstr "BSO-akkoordgegevens"
+
+#: Controller/Api/UsersController.php:5133
+msgid "BSO Contract Data."
+msgstr "BSO Contract Data."
+
+#: Controller/Api/UsersController.php:5320
+msgid "Contract saved successfully."
+msgstr "Contract succesvol opgeslagen."
+
+#: Controller/Employee/EmployeesController.php:72;101
+msgid "The employee has been saved."
+msgstr "De medewerker is opgeslagen."
+
+#: Controller/Employee/EmployeesController.php:76;106
+msgid "The employee could not be saved. Please, try again."
+msgstr "De werknemer kon niet worden opgeslagen. Probeer het opnieuw."
+
+#: Controller/Employee/EmployeesController.php:132
+msgid "The employee has been deleted."
+msgstr "De werknemer is verwijderd."
+
+#: Controller/Employee/EmployeesController.php:134
+msgid "The employee could not be deleted. Please, try again."
+msgstr "De werknemer kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/Employee/EmployeesController.php:713
+msgid "Employee has been created."
+msgstr "Werknemer is aangemaakt."
+
+#: Controller/Employee/EmployeesController.php:716;719
+msgid "Employee could not be created. Please, try again."
+msgstr "Werknemer kon niet worden gecreëerd. Probeer het opnieuw."
+
+#: Controller/Employee/EmployeesController.php:824
+msgid "There are some problem to update Employee. Please try again!"
+msgstr "Er zijn een aantal problemen om de werknemer bij te werken. Probeer het opnieuw!"
+
+#: Controller/Employee/EmployeesController.php:1394
+msgid "Student has been deleted."
+msgstr "Student is verwijderd."
+
+#: Controller/Employee/EmployeesController.php:1396
+msgid "Student could not be deleted. Please, try again."
+msgstr "De student kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/Employee/EmployeesController.php:1772 Template/Parent/Users/childview.ctp:111
+#: Template/Users/childview.ctp:111 Template/Users/manage_services.ctp:38 Template/Users/select_plan.ctp:19
+msgid "Day"
+msgstr "Dag"
+
+#: Controller/Employee/EmployeesController.php:1773
+msgid "Service Type"
+msgstr "Service Type"
+
+#: Controller/Employee/EmployeesController.php:1774 Template/Employee/Employees/assigned_classes.ctp:31
+#: Template/Employee/Employees/dashboard.ctp:25 Template/Parent/Users/childview.ctp:112
+#: Template/Parent/Users/download_invoice.ctp:191 Template/Parent/Users/send_invoice.ctp:144
+#: Template/Users/add_services.ctp:96 Template/Users/child_services.ctp:97;122 Template/Users/childview.ctp:112
+#: Template/Users/edit_services.ctp:96 Template/Users/send_invoice.ctp:112 Template/Users/view_invoice.ctp:146
+msgid "Start Time"
+msgstr "Begintijd"
+
+#: Controller/Employee/EmployeesController.php:1775 Template/Employee/Employees/assigned_classes.ctp:32
+#: Template/Employee/Employees/dashboard.ctp:26 Template/Parent/Users/childview.ctp:113
+#: Template/Parent/Users/send_invoice.ctp:145 Template/Users/add_services.ctp:107
+#: Template/Users/child_services.ctp:98;123 Template/Users/childview.ctp:113 Template/Users/edit_services.ctp:102
+#: Template/Users/manage_services.ctp:40 Template/Users/select_plan.ctp:21 Template/Users/view_invoice.ctp:147
+msgid "End Time"
+msgstr "Eindtijd"
+
+#: Controller/Parent/UsersController.php:137
+msgid "User has been updated."
+msgstr "Gebruiker is bijgewerkt."
+
+#: Controller/Parent/UsersController.php:141
+msgid "User could not be updated. Please, try again."
+msgstr "De gebruiker kon niet worden bijgewerkt. Probeer het opnieuw."
+
+#: Controller/Parent/UsersController.php:164
+msgid "User has been saved."
+msgstr "Gebruiker is opgeslagen."
+
+#: Controller/Parent/UsersController.php:169
+msgid "User could not be saved. Please, try again."
+msgstr "De gebruiker kon niet worden opgeslagen. Probeer het opnieuw."
+
+#: Controller/Parent/UsersController.php:190
+msgid "User has been deleted."
+msgstr "Gebruiker is verwijderd."
+
+#: Controller/Parent/UsersController.php:192
+msgid "User could not be deleted. Please, try again."
+msgstr "De gebruiker kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/Parent/UsersController.php:515
+msgid "leave has been saved."
+msgstr "De gebruiker kon niet worden verwijderd. "
+
+#: Controller/Parent/UsersController.php:519
+msgid "leave could not be saved. Please, try again."
+msgstr "leave kon niet worden opgeslagen. Probeer het alsjeblieft opnieuw. "
+
+#: Controller/Parent/UsersController.php:876
+msgid "Child has been saved."
+msgstr "Kind is opgeslagen."
+
+#: Controller/Parent/UsersController.php:881
+msgid "Child could not be saved. Please, try again."
+msgstr "Kind kon niet worden gered. Probeer het opnieuw."
+
+#: Controller/Parent/UsersController.php:1047;1719
+msgid "Child has been deleted."
+msgstr "Kind is verwijderd."
+
+#: Controller/Parent/UsersController.php:1049;1721
+msgid "Child could not be deleted. Please, try again."
+msgstr "Kind kon niet worden verwijderd. Probeer het opnieuw."
+
+#: Controller/Parent/UsersController.php:1274 Template/Parent/Users/send_invoice.ctp:429
+msgid "Present"
+msgstr "Aanwezig"
+
+#: Controller/Parent/UsersController.php:1293;1321 Template/Parent/Users/download_invoice.ctp:221
+#: Template/Parent/Users/send_invoice.ctp:174 Template/Users/send_invoice.ctp:142
+#: Template/Users/view_invoice.ctp:176;465;588
+msgid "Absent"
+msgstr "Afwezig"
+
+#: Controller/Parent/UsersController.php:1829
+msgid "Employee has been saved."
+msgstr "Werknemer is gered."
+
+#: Controller/Parent/UsersController.php:1833
+msgid "Employee could not be saved. Please, try again."
+msgstr "Werknemer kon niet worden gered. Probeer het opnieuw."
+
+#: Template/Admin/ClientInfo/add.ctp:9 Template/Admin/ClientInfo/edit.ctp:9
+#: Template/Admin/ClientInfo/index.ctp:20;33 Template/Admin/ClientInfo/view.ctp:9 Template/Api/Users/add.ctp:9
+#: Template/Api/Users/edit.ctp:9 Template/Api/Users/index.ctp:9;35 Template/Api/Users/view.ctp:9
+#: Template/ClientInfo/add.ctp:9 Template/ClientInfo/edit.ctp:9 Template/ClientInfo/index.ctp:9;22
+#: Template/ClientInfo/view.ctp:9 Template/Employee/Employees/add.ctp:9 Template/Employee/Employees/edit.ctp:9
+#: Template/Employee/Employees/index.ctp:9;52 Template/Employee/Employees/view.ctp:9;188
+#: Template/Parent/Users/add.ctp:9 Template/Parent/Users/edit.ctp:9 Template/Parent/Users/view.ctp:9
+msgid "Actions"
+msgstr "Acties"
+
+#: Template/Admin/ClientInfo/add.ctp:10 Template/Admin/ClientInfo/edit.ctp:16 Template/Admin/ClientInfo/view.ctp:12
+#: Template/ClientInfo/add.ctp:10 Template/ClientInfo/edit.ctp:16 Template/ClientInfo/view.ctp:12
+msgid "List Client Info"
+msgstr "Lijst Klanteninfo"
+
+#: Template/Admin/ClientInfo/add.ctp:16 Template/ClientInfo/add.ctp:16
+msgid "Add Client Info"
+msgstr "Klanteninfo toevoegen"
+
+#: Template/Admin/ClientInfo/add.ctp:23 Template/Admin/ClientInfo/edit.ctp:29 Template/Api/Users/add.ctp:34
+#: Template/Api/Users/edit.ctp:40 Template/ClientInfo/add.ctp:23 Template/ClientInfo/edit.ctp:29
+#: Template/Employee/Employees/add.ctp:54 Template/Employee/Employees/edit.ctp:60 Template/Parent/Users/add.ctp:34
+#: Template/Parent/Users/edit.ctp:40 Template/Users/forgot_password.ctp:24
+msgid "Submit"
+msgstr "Indienen"
+
+#: Template/Admin/ClientInfo/edit.ctp:11 Template/Admin/ClientInfo/index.ctp:46 Template/Api/Users/edit.ctp:11
+#: Template/Api/Users/index.ctp:61 Template/ClientInfo/edit.ctp:11 Template/ClientInfo/index.ctp:35
+#: Template/Element/Users/employee.ctp:71 Template/Element/Users/parent.ctp:74
+#: Template/Element/Users/services.ctp:51 Template/Employee/Employees/edit.ctp:11
+#: Template/Employee/Employees/index.ctp:91 Template/Employee/Employees/view.ctp:226
+#: Template/Parent/Users/edit.ctp:11 Template/Users/parent_profile.ctp:215;296
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: Template/Admin/ClientInfo/edit.ctp:13 Template/Admin/ClientInfo/index.ctp:46
+#: Template/Admin/ClientInfo/view.ctp:11 Template/Api/Users/edit.ctp:13 Template/Api/Users/index.ctp:61
+#: Template/Api/Users/view.ctp:11 Template/ClientInfo/edit.ctp:13 Template/ClientInfo/index.ctp:35
+#: Template/ClientInfo/view.ctp:11 Template/Employee/Employees/edit.ctp:13 Template/Employee/Employees/index.ctp:91
+#: Template/Employee/Employees/view.ctp:11;226 Template/Parent/Users/edit.ctp:13 Template/Parent/Users/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Weet u zeker dat u wilt verwijderen?"
+
+#: Template/Admin/ClientInfo/edit.ctp:22 Template/Admin/ClientInfo/view.ctp:10 Template/ClientInfo/edit.ctp:22
+#: Template/ClientInfo/view.ctp:10
+msgid "Edit Client Info"
+msgstr "Klanteninfo bewerken"
+
+#: Template/Admin/ClientInfo/index.ctp:21 Template/Admin/ClientInfo/view.ctp:13 Template/ClientInfo/index.ctp:10
+#: Template/ClientInfo/view.ctp:13
+msgid "New Client Info"
+msgstr "Nieuwe klantinfo"
+
+#: Template/Admin/ClientInfo/index.ctp:25 Template/ClientInfo/index.ctp:14
+msgid "Client Info"
+msgstr "Klant Info"
+
+#: Template/Admin/ClientInfo/index.ctp:44 Template/Api/Users/index.ctp:59 Template/ClientInfo/index.ctp:33
+#: Template/Employee/Employees/assign_students.ctp:68 Template/Employee/Employees/index.ctp:89
+#: Template/Employee/Employees/view.ctp:224 Template/Parent/Users/index.ctp:225;232;239;253
+#: Template/Users/select_plan.ctp:41 View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr "Bekijk"
+
+#: Template/Admin/ClientInfo/index.ctp:45 Template/Admin/Users/profile.ctp:72 Template/Api/Users/index.ctp:60
+#: Template/ClientInfo/index.ctp:34 Template/Employee/Employees/emp_profile.ctp:98
+#: Template/Employee/Employees/index.ctp:90 Template/Employee/Employees/view.ctp:225
+#: Template/Users/emp_profile.ctp:93
+msgid "Edit"
+msgstr "Bewerken"
+
+#: Template/Admin/ClientInfo/index.ctp:54 Template/Api/Users/index.ctp:69 Template/ClientInfo/index.ctp:43
+#: Template/Employee/Employees/index.ctp:99
+msgid "first"
+msgstr "eerst"
+
+#: Template/Admin/ClientInfo/index.ctp:55 Template/Admin/Users/index.ctp:68 Template/Admin/Users/search.php:67
+#: Template/Api/Users/index.ctp:70 Template/ClientInfo/index.ctp:44 Template/Employee/Employees/index.ctp:100
+#: Template/Users/employees.ctp:62
+msgid "previous"
+msgstr "eerder"
+
+#: Template/Admin/ClientInfo/index.ctp:57 Template/Admin/Users/index.ctp:70 Template/Admin/Users/search.php:69
+#: Template/Api/Users/index.ctp:72 Template/ClientInfo/index.ctp:46 Template/Employee/Employees/index.ctp:102
+#: Template/Users/employees.ctp:64
+msgid "next"
+msgstr "vervolgens"
+
+#: Template/Admin/ClientInfo/index.ctp:58 Template/Api/Users/index.ctp:73 Template/ClientInfo/index.ctp:47
+#: Template/Employee/Employees/index.ctp:103
+msgid "last"
+msgstr "aanhouden"
+
+#: Template/Admin/ClientInfo/index.ctp:60 Template/Api/Users/index.ctp:75 Template/ClientInfo/index.ctp:49
+#: Template/Employee/Employees/index.ctp:105
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+#: Template/Admin/ClientInfo/view.ctp:11 Template/ClientInfo/view.ctp:11
+msgid "Delete Client Info"
+msgstr "Klantinfo verwijderen"
+
+#: Template/Admin/ClientInfo/view.ctp:20 Template/Admin/Users/add.ctp:56 Template/Api/Users/view.ctp:20
+#: Template/ClientInfo/view.ctp:20 Template/Employee/Employees/assign_students.ctp:32
+#: Template/Employee/Employees/employee_availabelty.ctp:54 Template/Employee/Employees/employees.ctp:40
+#: Template/Employee/Employees/epanel_availabelty.ctp:49 Template/Employee/Employees/roster.ctp:41
+#: Template/Employee/Employees/roster_epanel.ctp:39 Template/Employee/Employees/view.ctp:96;181
+#: Template/Parent/Users/basic_info.ctp:159;168;203;212 Template/Parent/Users/childview.ctp:164
+#: Template/Parent/Users/manage_children.ctp:36 Template/Parent/Users/manage_guardian.ctp:40
+#: Template/Parent/Users/myinvoices.ctp:32 Template/Parent/Users/view.ctp:20 Template/Users/childview.ctp:164
+#: Template/Users/parents.ctp:40 Template/Users/plan_settings.ctp:27
+#: Template/Users/services_assign.ctp:23;64;115;263
+msgid "Name"
+msgstr "Naam"
+
+#: Template/Admin/ClientInfo/view.ctp:24 Template/Api/Users/view.ctp:24 Template/ClientInfo/view.ctp:24
+#: Template/Employee/Employees/view.ctp:32;159 Template/Parent/Users/view.ctp:24
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/Admin/ClientInfo/view.ctp:28 Template/Admin/Users/add.ctp:113 Template/Admin/Users/edit.ctp:101
+#: Template/Admin/Users/profile_edit.ctp:73 Template/Api/Users/view.ctp:52 Template/ClientInfo/view.ctp:28
+#: Template/Employee/Employees/view.ctp:56;167 Template/Parent/Users/view.ctp:52
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: Template/Admin/ClientInfo/view.ctp:32 Template/Api/Users/view.ctp:68 Template/ClientInfo/view.ctp:32
+#: Template/Employee/Employees/view.ctp:116;157 Template/Parent/Users/view.ctp:68
+msgid "Id"
+msgstr "Identiteitskaart"
+
+#: Template/Admin/Users/add.ctp:4
+msgid "Add BSO"
+msgstr "BSO toevoegen"
+
+#: Template/Admin/Users/add.ctp:14 Template/Admin/Users/edit.ctp:14
+msgid "BSO Details"
+msgstr "BSO-details"
+
+#: Template/Admin/Users/add.ctp:18 Template/Admin/Users/edit.ctp:19 Template/Admin/Users/profile.ctp:68
+#: Template/Employee/Employees/emp_profile.ctp:97 Template/Users/emp_profile.ctp:92
+msgid "Go Back"
+msgstr "Ga terug"
+
+#: Template/Admin/Users/add.ctp:32 Template/Admin/Users/edit.ctp:38 Template/Admin/Users/profile_edit.ctp:20
+#: Template/Users/add_employee.ctp:40 Template/Users/emp_edit.ctp:41
+msgid "Image size should be 1:1"
+msgstr "De afbeeldingsgrootte moet 1: 1 zijn"
+
+#: Template/Admin/Users/add.ctp:37
+msgid "Only PNG and JPEG  format is allowed."
+msgstr "Alleen PNG- en JPEG-indeling is toegestaan."
+
+#: Template/Admin/Users/add.ctp:40
+msgid "Upload image"
+msgstr "Afbeelding uploaden"
+
+#: Template/Admin/Users/add.ctp:47
+msgid "Select Countery *"
+msgstr "Selecteer Countery *"
+
+#: Template/Admin/Users/add.ctp:51 Template/Admin/Users/edit.ctp:62
+msgid "Select Timezone Region"
+msgstr "Selecteer tijdzone"
+
+#: Template/Admin/Users/add.ctp:55
+msgid "BSO Name  *"
+msgstr "BSO Naam *"
+
+#: Template/Admin/Users/add.ctp:60 Template/Employee/Employees/add_employee.ctp:55;56
+#: Template/Employee/Employees/emp_edit.ctp:65 Template/Employee/Employees/emp_profile.ctp:34
+#: Template/Employee/Employees/employees.ctp:86 Template/Employee/Employees/profile_edit.ctp:102
+#: Template/Parent/Users/add_child.ctp:62;63 Template/Parent/Users/add_guardian.ctp:58
+#: Template/Parent/Users/child_edit.ctp:69 Template/Parent/Users/guardian_edit.ctp:64;65
+#: Template/Parent/Users/profile_edit.ctp:105 Template/Users/add_child.ctp:60 Template/Users/add_guardian.ctp:58
+#: Template/Users/addparents.ctp:54 Template/Users/child_edit.ctp:64 Template/Users/emp_profile.ctp:30
+#: Template/Users/guardian_edit.ctp:68 Template/Users/parent_profile.ctp:57 Template/Users/profile_edit.ctp:105
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: Template/Admin/Users/add.ctp:63 Template/Users/add_employee.ctp:62 Template/Users/emp_edit.ctp:69
+msgid "Email Address  *"
+msgstr "E-mailadres *"
+
+#: Template/Admin/Users/add.ctp:64 Template/Admin/Users/edit.ctp:70;71 Template/Admin/Users/profile.ctp:34
+#: Template/Admin/Users/profile_edit.ctp:48 Template/Employee/Employees/add_employee.ctp:63;64
+#: Template/Employee/Employees/emp_profile.ctp:38 Template/Employee/Employees/profile_edit.ctp:113
+#: Template/Parent/Users/add_guardian.ctp:68 Template/Parent/Users/guardian_edit.ctp:75
+#: Template/Parent/Users/profile_edit.ctp:116 Template/Users/emp_profile.ctp:34 Template/Users/guardian_edit.ctp:78
+#: Template/Users/parent_profile.ctp:66 Template/Users/profile_edit.ctp:116
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: Template/Admin/Users/add.ctp:67 Template/Users/add_employee.ctp:66 Template/Users/emp_edit.ctp:73
+msgid "Mobile Number  *"
+msgstr "Mobiel nummer *"
+
+#: Template/Admin/Users/add.ctp:93 Template/Admin/Users/edit.ctp:81 Template/Employee/Employees/add_employee.ctp:86
+#: Template/Employee/Employees/assign_students.ctp:35 Template/Employee/Employees/attendance.ctp:46
+#: Template/Employee/Employees/emp_attendance.ctp:46 Template/Employee/Employees/profile_edit.ctp:49
+#: Template/Parent/Users/add_child.ctp:73 Template/Parent/Users/attendance.ctp:45
+#: Template/Parent/Users/basic_info.ctp:48 Template/Parent/Users/child_edit.ctp:79
+#: Template/Parent/Users/childview.ctp:48 Template/Parent/Users/guardian_edit.ctp:89
+#: Template/Parent/Users/manage_children.ctp:39 Template/Parent/Users/manage_guardian.ctp:43
+#: Template/Parent/Users/profile_edit.ctp:50 Template/Users/attendance.ctp:45 Template/Users/childview.ctp:48
+#: Template/Users/plan_settings.ctp:30 Template/Users/profile_edit.ctp:50
+msgid "DOB"
+msgstr "DOB"
+
+#: Template/Admin/Users/add.ctp:96 Template/Admin/Users/edit.ctp:84 Template/Users/add_employee.ctp:106
+#: Template/Users/emp_edit.ctp:122
+msgid "Post Code *"
+msgstr "Postcode *"
+
+#: Template/Admin/Users/add.ctp:104 Template/Users/add_employee.ctp:114 Template/Users/emp_edit.ctp:130
+msgid "Address *"
+msgstr "Adres *"
+
+#: Template/Admin/Users/add.ctp:105 Template/Admin/Users/edit.ctp:92;93 Template/Admin/Users/profile.ctp:47
+#: Template/Admin/Users/profile_edit.ctp:61 Template/Api/Users/view.ctp:28
+#: Template/Employee/Employees/add_employee.ctp:109 Template/Employee/Employees/emp_profile.ctp:80
+#: Template/Employee/Employees/view.ctp:36;160 Template/Parent/Users/add_child.ctp:119
+#: Template/Parent/Users/add_guardian.ctp:121 Template/Parent/Users/bso_agrement.ctp:88
+#: Template/Parent/Users/child_edit.ctp:135 Template/Parent/Users/childview.ctp:203
+#: Template/Parent/Users/guardian_edit.ctp:135 Template/Parent/Users/view.ctp:28 Template/Users/add_child.ctp:118
+#: Template/Users/childview.ctp:203 Template/Users/emp_profile.ctp:75
+msgid "Address"
+msgstr "Adres"
+
+#: Template/Admin/Users/add.ctp:108 Template/Users/add_employee.ctp:118 Template/Users/emp_edit.ctp:134
+msgid "Woonplaats  *"
+msgstr "Woonplaats *"
+
+#: Template/Admin/Users/add.ctp:109 Template/Api/Users/view.ctp:32 Template/Employee/Employees/add_employee.ctp:116
+#: Template/Employee/Employees/view.ctp:40;161 Template/Parent/Users/add_guardian.ctp:128
+#: Template/Parent/Users/child_edit.ctp:142 Template/Parent/Users/view.ctp:32
+msgid "Residence"
+msgstr "residentie"
+
+#: Template/Admin/Users/add.ctp:117 Template/Admin/Users/edit.ctp:105
+msgid "Confirm password"
+msgstr "Bevestig wachtwoord"
+
+#: Template/Admin/Users/add.ctp:129
+msgid "Create User"
+msgstr "Gebruiker maken"
+
+#: Template/Admin/Users/dashboard.ctp:4
+msgid "DASHBOARD"
+msgstr "DASHBOARD"
+
+#: Template/Admin/Users/dashboard.ctp:7
+msgid "WelCome To Admin Panel Of BSO"
+msgstr "WelCome To Admin Panel of BSO"
+
+#: Template/Admin/Users/edit.ctp:49 Template/Users/add_employee.ctp:45
+msgid "Only PNG and JPEG format is allowed."
+msgstr "Alleen PNG- en JPEG-indeling is toegestaan."
+
+#: Template/Admin/Users/edit.ctp:52 Template/Users/add_employee.ctp:48
+msgid " Upload image"
+msgstr " Afbeelding uploaden"
+
+#: Template/Admin/Users/edit.ctp:58
+msgid "Select Countery"
+msgstr "Selecteer Countery"
+
+#: Template/Admin/Users/edit.ctp:66;67 Template/Admin/Users/profile.ctp:29
+msgid "BSO Name"
+msgstr "BSO-naam"
+
+#: Template/Admin/Users/edit.ctp:74 Template/Admin/Users/profile.ctp:39 Template/Admin/Users/profile_edit.ctp:52
+#: Template/Employee/Employees/emp_profile.ctp:42 Template/Parent/Users/add_guardian.ctp:74
+#: Template/Parent/Users/childview.ctp:207 Template/Users/childview.ctp:207 Template/Users/emp_profile.ctp:38
+#: Template/Users/guardian_edit.ctp:84
+msgid "Mobile Number"
+msgstr "Mobiel nummer"
+
+#: Template/Admin/Users/edit.ctp:96 Template/Admin/Users/profile.ctp:51
+#: Template/Employee/Employees/emp_profile.ctp:76
+msgid "Woonplaats"
+msgstr "Woonplaats"
+
+#: Template/Admin/Users/edit.ctp:117 Template/Admin/Users/profile_edit.ctp:82
+#: Template/Parent/Users/basic_info.ctp:929 Template/Users/attendance_settings.ctp:59
+msgid "Save"
+msgstr "Opslaan"
+
+#: Template/Admin/Users/index.ctp:5 Template/Layout/supperadmin.ctp:98
+msgid "Manage BSO"
+msgstr "Beheer BSO"
+
+#: Template/Admin/Users/index.ctp:17
+msgid "BSO List"
+msgstr "BSO-lijst"
+
+#: Template/Admin/Users/index.ctp:32 Template/Admin/Users/search.php:31 Template/Users/employees.ctp:32
+msgid "Search"
+msgstr "Zoeken"
+
+#: Template/Admin/Users/index.ctp:49 Template/Users/employees.ctp:48
+msgid "name"
+msgstr "naam"
+
+#: Template/Admin/Users/index.ctp:50 Template/Api/Users/view.ctp:40
+#: Template/Employee/Employees/assign_students.ctp:33 Template/Employee/Employees/employees.ctp:41
+#: Template/Employee/Employees/view.ctp:44;163 Template/Parent/Users/manage_children.ctp:37
+#: Template/Parent/Users/manage_guardian.ctp:41 Template/Parent/Users/myinvoices.ctp:33
+#: Template/Parent/Users/view.ctp:40 Template/Users/employees.ctp:49 Template/Users/parents.ctp:41
+#: Template/Users/plan_settings.ctp:28 Template/Users/services_assign.ctp:116
+msgid "Image"
+msgstr "Beeld"
+
+#: Template/Admin/Users/index.ctp:51 Template/Users/employees.ctp:50
+msgid "email"
+msgstr "e-mail"
+
+#: Template/Admin/Users/index.ctp:52 Template/Admin/Users/profile.ctp:55
+#: Template/Employee/Employees/assigned_classes.ctp:33 Template/Employee/Employees/dashboard.ctp:27
+#: Template/Employee/Employees/emp_profile.ctp:84 Template/Employee/Employees/employees.ctp:43
+#: Template/Parent/Users/childview.ctp:114 Template/Parent/Users/manage_guardian.ctp:45
+#: Template/Users/childview.ctp:114 Template/Users/emp_profile.ctp:79 Template/Users/employees.ctp:51
+#: Template/Users/manage_services.ctp:41 Template/Users/parents.ctp:43
+msgid "Status"
+msgstr "staat"
+
+#: Template/Admin/Users/index.ctp:53 Template/Employee/Employees/assign_students.ctp:37
+#: Template/Employee/Employees/assigned_classes.ctp:34 Template/Employee/Employees/dashboard.ctp:28
+#: Template/Employee/Employees/employees.ctp:44 Template/Parent/Users/manage_children.ctp:41
+#: Template/Parent/Users/manage_guardian.ctp:46 Template/Parent/Users/myinvoices.ctp:38
+#: Template/Users/employees.ctp:52 Template/Users/manage_services.ctp:42 Template/Users/parents.ctp:44
+#: Template/Users/plan_settings.ctp:33 Template/Users/select_plan.ctp:22
+#: Template/Users/services_assign.ctp:24;65;118;264
+msgid "Action"
+msgstr "Actie"
+
+#: Template/Admin/Users/profile.ctp:4 Template/Employee/Employees/emp_profile.ctp:4
+msgid "User Profile"
+msgstr "Gebruikersprofiel"
+
+#: Template/Admin/Users/profile.ctp:43 Template/Admin/Users/profile_edit.ctp:57
+#: Template/Employee/Employees/emp_profile.ctp:72 Template/Parent/Users/bso_agrement.ctp:98
+#: Template/Users/emp_profile.ctp:67
+msgid "Postcode"
+msgstr "Postcode"
+
+#: Template/Admin/Users/profile_edit.ctp:4
+msgid "User Pofile"
+msgstr "Gebruiker Pofile"
+
+#: Template/Admin/Users/profile_edit.ctp:34
+msgid "Change image"
+msgstr "Verander afbeelding"
+
+#: Template/Admin/Users/profile_edit.ctp:40 Template/Employee/Employees/add_employee.ctp:49;50
+#: Template/Employee/Employees/emp_profile.ctp:30 Template/Employee/Employees/employees.ctp:80
+#: Template/Employee/Employees/profile_edit.ctp:91 Template/Parent/Users/add_child.ctp:55;56
+#: Template/Parent/Users/add_guardian.ctp:52 Template/Parent/Users/child_edit.ctp:62
+#: Template/Parent/Users/guardian_edit.ctp:59 Template/Parent/Users/profile_edit.ctp:94
+#: Template/Users/add_child.ctp:53 Template/Users/child_edit.ctp:57 Template/Users/emp_profile.ctp:26
+#: Template/Users/guardian_edit.ctp:62 Template/Users/parent_profile.ctp:51 Template/Users/profile_edit.ctp:94
+msgid "First Name"
+msgstr "Voornaam"
+
+#: Template/Admin/Users/profile_edit.ctp:65 Template/Employee/Employees/profile_edit.ctp:275
+#: Template/Parent/Users/profile_edit.ctp:82;278 Template/Users/profile_edit.ctp:82;278
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+#: Template/Admin/Users/profile_edit.ctp:73
+msgid "Password must contain atleast one capital letter and alphanumeric characters"
+msgstr "Wachtwoord moet ten minste één hoofdletter en alfanumerieke tekens bevatten"
+
+#: Template/Admin/Users/profile_edit.ctp:77
+msgid "Confirm Password"
+msgstr "bevestig wachtwoord"
+
+#: Template/Api/Users/add.ctp:10 Template/Api/Users/edit.ctp:16 Template/Api/Users/view.ctp:12
+#: Template/Parent/Users/add.ctp:10 Template/Parent/Users/edit.ctp:16 Template/Parent/Users/view.ctp:12
+msgid "List Users"
+msgstr "Lijst Gebruikers"
+
+#: Template/Api/Users/add.ctp:16 Template/Parent/Users/add.ctp:16
+msgid "Add User"
+msgstr "Voeg gebruiker toe"
+
+#: Template/Api/Users/edit.ctp:22 Template/Api/Users/view.ctp:10 Template/Parent/Users/edit.ctp:22
+#: Template/Parent/Users/view.ctp:10
+msgid "Edit User"
+msgstr "bewerk gebruiker"
+
+#: Template/Api/Users/index.ctp:10 Template/Api/Users/view.ctp:13 Template/Parent/Users/view.ctp:13
+msgid "New User"
+msgstr "Nieuwe gebruiker"
+
+#: Template/Api/Users/index.ctp:14
+msgid "Users"
+msgstr "gebruikers"
+
+#: Template/Api/Users/view.ctp:11 Template/Parent/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Verwijder gebruiker"
+
+#: Template/Api/Users/view.ctp:36 Template/Employee/Employees/view.ctp:149;162 Template/Parent/Users/view.ctp:36
+msgid "Token"
+msgstr "blijk"
+
+#: Template/Api/Users/view.ctp:44 Template/Employee/Employees/view.ctp:48;164 Template/Parent/Users/view.ctp:44
+msgid "Mobile No"
+msgstr "Mobiel Nee"
+
+#: Template/Api/Users/view.ctp:48 Template/Employee/Employees/view.ctp:52;165
+#: Template/Parent/Users/add_child.ctp:144 Template/Parent/Users/view.ctp:48 Template/Users/add_child.ctp:143
+msgid "Post Code"
+msgstr "Postcode"
+
+#: Template/Api/Users/view.ctp:56 Template/Employee/Employees/profile_edit.ctp:59
+#: Template/Employee/Employees/view.ctp:60 Template/Parent/Users/profile_edit.ctp:60
+#: Template/Parent/Users/view.ctp:56 Template/Users/profile_edit.ctp:60
+msgid "Role"
+msgstr "Rol"
+
+#: Template/Api/Users/view.ctp:60 Template/Employee/Employees/view.ctp:64;169 Template/Parent/Users/view.ctp:60
+msgid "Created"
+msgstr "gemaakt"
+
+#: Template/Api/Users/view.ctp:64 Template/Employee/Employees/view.ctp:68;170 Template/Parent/Users/view.ctp:64
+msgid "Modified"
+msgstr "gewijzigde"
+
+#: Template/Api/Users/view.ctp:72 Template/Employee/Employees/view.ctp:120;166 Template/Parent/Users/view.ctp:72
+msgid "Is Active"
+msgstr "Is actief"
+
+#: Template/Api/Users/view.ctp:76 Template/Employee/Employees/view.ctp:124;171 Template/Parent/Users/view.ctp:76
+msgid "Flag"
+msgstr "Vlag"
+
+#: Template/Api/Users/view.ctp:80 Template/Employee/Employees/view.ctp:128;172 Template/Parent/Users/view.ctp:80
+msgid "Bso Id"
+msgstr "Bso-ID"
+
+#: Template/Api/Users/view.ctp:84 Template/Employee/Employees/view.ctp:173 Template/Parent/Users/view.ctp:84
+msgid "Parent Id"
+msgstr "Ouder ID"
+
+#: Template/Element/Users/employee.ctp:64
+msgid "Deactivate"
+msgstr "deactiveren"
+
+#: Template/Element/Users/employee.ctp:64 Template/Element/Users/index.ctp:51
+#: Template/Element/Users/manageguardian.ctp:47 Template/Element/Users/parent.ctp:67
+msgid "Are you sure you want to Deactivate {0}"
+msgstr "Weet u zeker dat u {0} wilt deactiveren"
+
+#: Template/Element/Users/employee.ctp:68
+msgid "Activate"
+msgstr "Activeren"
+
+#: Template/Element/Users/employee.ctp:68 Template/Element/Users/index.ctp:55
+#: Template/Element/Users/manageguardian.ctp:51 Template/Element/Users/parent.ctp:71
+msgid "Are you sure you want to Activate {0}"
+msgstr "Weet je zeker dat je {0} wilt activeren?"
+
+#: Template/Element/Users/employee.ctp:71 Template/Element/Users/index.ctp:58
+#: Template/Element/Users/managechild.ctp:49 Template/Element/Users/manageguardian.ctp:53
+#: Template/Element/Users/parent.ctp:75 Template/Users/services_assign.ctp:172
+msgid "Are you sure you want to Delete {0}"
+msgstr "Weet je zeker dat je {0} wilt verwijderen?"
+
+#: Template/Element/Users/index.ctp:51 Template/Element/Users/manageguardian.ctp:47
+msgid "<i class=\"fa fa fa-eye-slash\"> </i> Deactivate"
+msgstr "<i class = \\ \"fa fa fa-eye-slash \"> </ i> deactiveren"
+
+#: Template/Element/Users/index.ctp:55 Template/Element/Users/manageguardian.ctp:51
+#: Template/Element/Users/parent.ctp:71
+msgid "<i class=\"fa fa fa-eye-slash\"> </i> Activate"
+msgstr "<i class = \\ \"fa fa fa-eye-slash \"> </ i> activeren"
+
+#: Template/Element/Users/index.ctp:58 Template/Element/Users/managechild.ctp:49
+#: Template/Element/Users/manageguardian.ctp:53 Template/Users/services_assign.ctp:172
+msgid "<i class=\"fa fa fa-trash\"> </i> Delete"
+msgstr "<i class = \\ \"fa fa fa-trash \"> </ i> Verwijderen"
+
+#: Template/Element/Users/parent.ctp:67
+msgid "<i class=\"fa fa fa-eye-slash\"> </i>Deactivate"
+msgstr "<i class = \\ \"fa fa fa-eye-slash \"> </ i> deactiveren"
+
+#: Template/Element/Users/services.ctp:42
+msgid "Assign"
+msgstr "Toewijzen"
+
+#: Template/Element/Users/services.ctp:52 Template/Users/parent_profile.ctp:215;296
+msgid "Are you sure you want to Delete # {0}?"
+msgstr "Weet je zeker dat je # {0} wilt verwijderen?"
+
+#: Template/Employee/Employees/add.ctp:10 Template/Employee/Employees/edit.ctp:16
+#: Template/Employee/Employees/view.ctp:12
+msgid "List Employees"
+msgstr "Lijst Medewerkers"
+
+#: Template/Employee/Employees/add.ctp:11 Template/Employee/Employees/edit.ctp:17
+#: Template/Employee/Employees/index.ctp:11 Template/Employee/Employees/view.ctp:14
+msgid "List Roles"
+msgstr "Lijstrollen"
+
+#: Template/Employee/Employees/add.ctp:12 Template/Employee/Employees/edit.ctp:18
+#: Template/Employee/Employees/index.ctp:12 Template/Employee/Employees/view.ctp:15
+msgid "New Role"
+msgstr "Nieuwe rol"
+
+#: Template/Employee/Employees/add.ctp:13 Template/Employee/Employees/edit.ctp:19
+#: Template/Employee/Employees/view.ctp:16
+msgid "List Parent Employees"
+msgstr "Geef uw oudermedewerkers een lijst"
+
+#: Template/Employee/Employees/add.ctp:14 Template/Employee/Employees/edit.ctp:20
+#: Template/Employee/Employees/view.ctp:17
+msgid "New Parent Employee"
+msgstr "Nieuwe ouder-werknemer"
+
+#: Template/Employee/Employees/add.ctp:15 Template/Employee/Employees/edit.ctp:21
+#: Template/Employee/Employees/index.ctp:13 Template/Employee/Employees/view.ctp:18
+msgid "List Groups"
+msgstr "Lijstgroepen"
+
+#: Template/Employee/Employees/add.ctp:16 Template/Employee/Employees/edit.ctp:22
+#: Template/Employee/Employees/index.ctp:14 Template/Employee/Employees/view.ctp:19
+msgid "New Group"
+msgstr "Nieuwe groep"
+
+#: Template/Employee/Employees/add.ctp:22 Template/Users/add_employee.ctp:4 Template/Users/index.ctp:135
+msgid "Add Employee"
+msgstr "Voeg werknemer toe"
+
+#: Template/Employee/Employees/add_employee.ctp:6 Template/Employee/Employees/edit.ctp:28
+#: Template/Employee/Employees/emp_edit.ctp:6 Template/Employee/Employees/view.ctp:10 Template/Users/emp_edit.ctp:4
+msgid "Edit Employee"
+msgstr "Bewerk werknemer"
+
+#: Template/Employee/Employees/add_employee.ctp:16 Template/Employee/Employees/emp_edit.ctp:16
+msgid "Please enter employee details"
+msgstr "Voer medewerkersgegevens in"
+
+#: Template/Employee/Employees/add_employee.ctp:20
+msgid "Go to employee list"
+msgstr "Ga naar werknemerslijst"
+
+#: Template/Employee/Employees/add_employee.ctp:36 Template/Parent/Users/child_edit.ctp:47
+msgid "Image Name"
+msgstr "Afbeeldingsnaam"
+
+#: Template/Employee/Employees/add_employee.ctp:41 Template/Parent/Users/guardian_edit.ctp:50
+msgid "Upload Image.."
+msgstr "Afbeelding uploaden.."
+
+#: Template/Employee/Employees/add_employee.ctp:71 Template/Employee/Employees/emp_edit.ctp:81
+#: Template/Parent/Users/guardian_edit.ctp:80 Template/Users/addparents.ctp:70
+msgid "Mobile Number *"
+msgstr "Mobiel nummer *"
+
+#: Template/Employee/Employees/add_employee.ctp:77;78 Template/Employee/Employees/attendance.ctp:77
+#: Template/Employee/Employees/emp_attendance.ctp:77 Template/Employee/Employees/emp_edit.ctp:87
+#: Template/Employee/Employees/emp_profile.ctp:59 Template/Employee/Employees/view.ctp:88;178
+#: Template/Users/emp_profile.ctp:54
+msgid "Joining Date"
+msgstr "Lid worden van datum"
+
+#: Template/Employee/Employees/add_employee.ctp:85 Template/Employee/Employees/emp_edit.ctp:95
+#: Template/Parent/Users/child_edit.ctp:78 Template/Parent/Users/guardian_edit.ctp:88
+#: Template/Users/add_employee.ctp:72 Template/Users/addparents.ctp:83 Template/Users/emp_edit.ctp:83
+msgid "Date of Birth *"
+msgstr "Geboortedatum *"
+
+#: Template/Employee/Employees/add_employee.ctp:91 Template/Employee/Employees/assign_students.ctp:34
+#: Template/Employee/Employees/attendance.ctp:31 Template/Employee/Employees/emp_attendance.ctp:31
+#: Template/Employee/Employees/emp_edit.ctp:101 Template/Employee/Employees/emp_profile.ctp:63
+#: Template/Employee/Employees/employees.ctp:42 Template/Employee/Employees/profile_edit.ctp:33;147
+#: Template/Employee/Employees/view.ctp:132;176 Template/Parent/Users/add_child.ctp:79
+#: Template/Parent/Users/add_guardian.ctp:88 Template/Parent/Users/attendance.ctp:30
+#: Template/Parent/Users/basic_info.ctp:34 Template/Parent/Users/child_edit.ctp:85
+#: Template/Parent/Users/childview.ctp:34;172 Template/Parent/Users/guardian_edit.ctp:95
+#: Template/Parent/Users/manage_children.ctp:38 Template/Parent/Users/manage_guardian.ctp:42
+#: Template/Parent/Users/profile_edit.ctp:34;150 Template/Users/add_child.ctp:77 Template/Users/add_employee.ctp:80
+#: Template/Users/add_guardian.ctp:88 Template/Users/addparents.ctp:89 Template/Users/attendance.ctp:30
+#: Template/Users/child_edit.ctp:81 Template/Users/childview.ctp:34;172 Template/Users/emp_edit.ctp:87
+#: Template/Users/guardian_edit.ctp:98 Template/Users/parent_profile.ctp:86 Template/Users/parents.ctp:42
+#: Template/Users/plan_settings.ctp:29 Template/Users/profile_edit.ctp:34;150
+msgid "Gender"
+msgstr "Geslacht"
+
+#: Template/Employee/Employees/add_employee.ctp:93 Template/Employee/Employees/assign_students.ctp:58
+#: Template/Employee/Employees/attendance.ctp:35 Template/Employee/Employees/emp_attendance.ctp:35
+#: Template/Employee/Employees/emp_edit.ctp:104;109 Template/Employee/Employees/emp_profile.ctp:65
+#: Template/Employee/Employees/profile_edit.ctp:38;152;157 Template/Parent/Users/add_child.ctp:82;87
+#: Template/Parent/Users/add_guardian.ctp:90 Template/Parent/Users/attendance.ctp:34
+#: Template/Parent/Users/basic_info.ctp:38 Template/Parent/Users/child_edit.ctp:88;93
+#: Template/Parent/Users/childview.ctp:38;175 Template/Parent/Users/guardian_edit.ctp:98;103
+#: Template/Parent/Users/profile_edit.ctp:39;155;160 Template/Users/add_child.ctp:80;85
+#: Template/Users/add_employee.ctp:82 Template/Users/attendance.ctp:34 Template/Users/child_edit.ctp:84;89
+#: Template/Users/childview.ctp:38;175 Template/Users/emp_edit.ctp:90;95 Template/Users/emp_profile.ctp:60
+#: Template/Users/guardian_edit.ctp:101;106 Template/Users/parent_profile.ctp:89
+#: Template/Users/profile_edit.ctp:39;155;160
+msgid "Male"
+msgstr "Mannetje"
+
+#: Template/Employee/Employees/add_employee.ctp:95 Template/Employee/Employees/assign_students.ctp:60
+#: Template/Employee/Employees/attendance.ctp:37 Template/Employee/Employees/emp_attendance.ctp:37
+#: Template/Employee/Employees/emp_edit.ctp:106;111 Template/Employee/Employees/emp_profile.ctp:67
+#: Template/Employee/Employees/profile_edit.ctp:40;154;159 Template/Parent/Users/add_child.ctp:84;89
+#: Template/Parent/Users/add_guardian.ctp:92 Template/Parent/Users/attendance.ctp:36
+#: Template/Parent/Users/basic_info.ctp:40 Template/Parent/Users/child_edit.ctp:90;95
+#: Template/Parent/Users/childview.ctp:40;177 Template/Parent/Users/guardian_edit.ctp:100;105
+#: Template/Parent/Users/profile_edit.ctp:41;157;162 Template/Users/add_child.ctp:82;87
+#: Template/Users/add_employee.ctp:85 Template/Users/attendance.ctp:36 Template/Users/child_edit.ctp:86;91
+#: Template/Users/childview.ctp:40;177 Template/Users/emp_edit.ctp:92;97 Template/Users/emp_profile.ctp:62
+#: Template/Users/guardian_edit.ctp:103;108 Template/Users/parent_profile.ctp:91
+#: Template/Users/profile_edit.ctp:41;157;162
+msgid "Female"
+msgstr "Vrouw"
+
+#: Template/Employee/Employees/add_employee.ctp:100 Template/Employee/Employees/emp_edit.ctp:117
+#: Template/Parent/Users/child_edit.ctp:126 Template/Parent/Users/guardian_edit.ctp:126
+#: Template/Users/addparents.ctp:112
+msgid "Pin Code *"
+msgstr "Pincode *"
+
+#: Template/Employee/Employees/add_employee.ctp:108 Template/Employee/Employees/emp_edit.ctp:125
+#: Template/Parent/Users/child_edit.ctp:134 Template/Parent/Users/guardian_edit.ctp:134
+#: Template/Users/addparents.ctp:120
+msgid "Address (Area and Street) *"
+msgstr "Adres (gebied en straat) *"
+
+#: Template/Employee/Employees/add_employee.ctp:115 Template/Employee/Employees/emp_edit.ctp:132
+#: Template/Parent/Users/child_edit.ctp:141 Template/Parent/Users/guardian_edit.ctp:141
+#: Template/Users/addparents.ctp:127
+msgid "City/District *"
+msgstr "Stadsdeel *"
+
+#: Template/Employee/Employees/add_employee.ctp:122
+msgid "Save Employee"
+msgstr "Bewaar werknemer"
+
+#: Template/Employee/Employees/assign_students.ctp:5;15 Template/Layout/admin.ctp:233
+#: Template/Parent/Users/manage_children.ctp:14 Template/Parent/Users/myinvoices.ctp:14
+#: Template/Users/parent_profile.ctp:149
+msgid "Children List"
+msgstr "Kinderlijst"
+
+#: Template/Employee/Employees/assign_students.ctp:36
+msgid "Reg No."
+msgstr "Reg No."
+
+#: Template/Employee/Employees/assign_students.ctp:69 Template/Employee/Employees/attendance.ctp:5;93
+#: Template/Employee/Employees/emp_attendance.ctp:5;93 Template/Layout/Parent.ctp:228
+#: Template/Layout/emplayout.ctp:216 Template/Parent/Users/attendance.ctp:5;91 Template/Parent/Users/index.ctp:74
+#: Template/Users/attendance.ctp:5;101
+msgid "Attendance"
+msgstr "opkomst"
+
+#: Template/Employee/Employees/assigned_classes.ctp:4 Template/Layout/emplayout.ctp:204
+msgid "Assigned Classes"
+msgstr "Toegewezen klassen"
+
+#: Template/Employee/Employees/assigned_classes.ctp:16 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Monday"
+msgstr "maandag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:17 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Tuesday"
+msgstr "dinsdag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:18 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Wednesday"
+msgstr "woensdag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:19 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Thursday"
+msgstr "donderdag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:20 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Friday"
+msgstr "vrijdag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:21 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Saturday"
+msgstr "zaterdag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:22 Template/Parent/Users/buy_services.ctp:13
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "Sunday"
+msgstr "zondag"
+
+#: Template/Employee/Employees/assigned_classes.ctp:30 Template/Employee/Employees/dashboard.ctp:24
+msgid "Service"
+msgstr "Service"
+
+#: Template/Employee/Employees/attendance.ctp:57 Template/Employee/Employees/emp_attendance.ctp:57
+#: Template/Parent/Users/basic_info.ctp:68 Template/Users/attendance.ctp:65
+msgid "Contact Number"
+msgstr "Contact nummer"
+
+#: Template/Employee/Employees/attendance.ctp:67 Template/Employee/Employees/emp_attendance.ctp:67
+#: Template/Employee/Employees/emp_profile.ctp:51 Template/Users/emp_profile.ctp:46
+msgid "Employee Id"
+msgstr "Werknemers-ID"
+
+#: Template/Employee/Employees/attendance.ctp:100 Template/Employee/Employees/emp_attendance.ctp:100
+#: Template/Parent/Users/attendance.ctp:98
+msgid "Total Present"
+msgstr "Totaal aanwezig"
+
+#: Template/Employee/Employees/attendance.ctp:103 Template/Parent/Users/attendance.ctp:101
+#: Template/Users/attendance.ctp:111
+msgid "Total Leave"
+msgstr "Totaal verlof"
+
+#: Template/Employee/Employees/attendance.ctp:106 Template/Employee/Employees/emp_attendance.ctp:106
+#: Template/Users/attendance.ctp:114
+msgid " Total Absent"
+msgstr " Totaal afwezig"
+
+#: Template/Employee/Employees/attendance.ctp:109 Template/Employee/Employees/emp_attendance.ctp:109
+#: Template/Parent/Users/attendance.ctp:107 Template/Users/attendance.ctp:117
+msgid "Total Holiday"
+msgstr "Totaal vakantie"
+
+#: Template/Employee/Employees/dashboard.ctp:6 Template/Layout/Parent.ctp:191 Template/Layout/admin.ctp:206
+#: Template/Layout/emplayout.ctp:192 Template/Layout/supperadmin.ctp:95 Template/Parent/Users/index.ctp:6
+#: Template/Users/index.ctp:6
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: Template/Employee/Employees/dashboard.ctp:7
+msgid "BSO Employee Panel"
+msgstr "BSO Employee Panel"
+
+#: Template/Employee/Employees/dashboard.ctp:16 Template/Parent/Users/index.ctp:109
+msgid "Today Classes"
+msgstr "Vandaag klassen"
+
+#: Template/Employee/Employees/dashboard.ctp:76 Template/Parent/Users/index.ctp:203 Template/Users/index.ctp:101
+msgid "Events Calender"
+msgstr "Evenementen kalender"
+
+#: Template/Employee/Employees/dashboard.ctp:104 Template/Parent/Users/index.ctp:217 Template/Users/index.ctp:181
+msgid "Event List"
+msgstr "Evenementenlijst"
+
+#: Template/Employee/Employees/emp_attendance.ctp:103
+msgid " Total Leave"
+msgstr " Totaal verlof"
+
+#: Template/Employee/Employees/emp_edit.ctp:51 Template/Employee/Employees/profile_edit.ctp:139
+#: Template/Parent/Users/child_edit.ctp:53 Template/Parent/Users/profile_edit.ctp:142
+#: Template/Users/profile_edit.ctp:142
+msgid "Change.."
+msgstr "Verandering.."
+
+#: Template/Employee/Employees/emp_edit.ctp:59 Template/Parent/Users/child_edit.ctp:61
+#: Template/Parent/Users/guardian_edit.ctp:58 Template/Users/addparents.ctp:48
+msgid "First Name *"
+msgstr "Voornaam *"
+
+#: Template/Employee/Employees/emp_edit.ctp:73 Template/Parent/Users/guardian_edit.ctp:74
+#: Template/Users/addparents.ctp:63
+msgid "Email Address *"
+msgstr "E-mailadres *"
+
+#: Template/Employee/Employees/emp_edit.ctp:139 Template/Parent/Users/guardian_edit.ctp:148
+#: Template/Users/guardian_edit.ctp:151
+msgid "Save Guardian"
+msgstr "Bewaar Guardian"
+
+#: Template/Employee/Employees/emp_profile.ctp:46 Template/Users/emp_profile.ctp:42
+#: Template/Users/parent_profile.ctp:100
+msgid "BSN No"
+msgstr "BSN Nee"
+
+#: Template/Employee/Employees/emp_profile.ctp:55 Template/Parent/Users/add_child.ctp:72
+#: Template/Parent/Users/add_guardian.ctp:82 Template/Parent/Users/childview.ctp:182
+#: Template/Users/add_child.ctp:70 Template/Users/child_edit.ctp:74 Template/Users/childview.ctp:182
+#: Template/Users/emp_profile.ctp:50 Template/Users/guardian_edit.ctp:92 Template/Users/parent_profile.ctp:80
+msgid "Date of Birth"
+msgstr "Geboortedatum"
+
+#: Template/Employee/Employees/emp_profile.ctp:86 Template/Users/emp_profile.ctp:81
+msgid "Not Activated Yet"
+msgstr "Nog niet geactiveerd"
+
+#: Template/Employee/Employees/emp_profile.ctp:88 Template/Users/emp_profile.ctp:83
+msgid "Activated"
+msgstr "geactiveerde"
+
+#: Template/Employee/Employees/employee_availabelty.ctp:30 Template/Employee/Employees/epanel_availabelty.ctp:30
+msgid "Employee Availabelity"
+msgstr "Beschikbaarheid van werknemers"
+
+#: Template/Employee/Employees/employee_availabelty.ctp:39 Template/Employee/Employees/epanel_availabelty.ctp:38
+msgid "Back To Roster"
+msgstr "Terug naar rooster"
+
+#: Template/Employee/Employees/employees.ctp:5 Template/Employee/Employees/profile_edit.ctp:63
+#: Template/Layout/admin.ctp:221 Template/Layout/emplayout.ctp:133 Template/Users/employees.ctp:4
+msgid "Employee"
+msgstr "werknemer"
+
+#: Template/Employee/Employees/employees.ctp:15 Template/Users/employees.ctp:14
+msgid "Employee List"
+msgstr "Werknemerslijst"
+
+#: Template/Employee/Employees/employees.ctp:19
+msgid "Add new employee"
+msgstr "Voeg een nieuwe werknemer toe"
+
+#: Template/Employee/Employees/employees.ctp:39 Template/Users/employees.ctp:47
+#: Template/Users/services_assign.ctp:22;63;114;262
+msgid "Emp. ID"
+msgstr "Emp. ID kaart"
+
+#: Template/Employee/Employees/employees.ctp:68 Template/Users/add_employee.ctp:14 Template/Users/emp_edit.ctp:14
+msgid "Employee Details"
+msgstr "Werknemersdetails"
+
+#: Template/Employee/Employees/index.ctp:10 Template/Employee/Employees/view.ctp:13
+msgid "New Employee"
+msgstr "Nieuwe medewerker"
+
+#: Template/Employee/Employees/index.ctp:18
+msgid "Employees"
+msgstr "werknemers"
+
+#: Template/Employee/Employees/profile_edit.ctp:6 Template/Parent/Users/profile_edit.ctp:6
+#: Template/Users/profile_edit.ctp:6
+msgid "Your Profile"
+msgstr "Jouw profiel"
+
+#: Template/Employee/Employees/profile_edit.ctp:123 Template/Parent/Users/profile_edit.ctp:126
+#: Template/Users/profile_edit.ctp:126
+msgid "Profile Image"
+msgstr "Profielfoto"
+
+#: Template/Employee/Employees/profile_edit.ctp:167 Template/Parent/Users/bso_agrement.ctp:78
+#: Template/Parent/Users/profile_edit.ctp:170 Template/Users/profile_edit.ctp:170
+msgid "Date of birth"
+msgstr "Geboortedatum"
+
+#: Template/Employee/Employees/profile_edit.ctp:177 Template/Parent/Users/add_child.ctp:130
+#: Template/Parent/Users/profile_edit.ctp:180 Template/Users/add_child.ctp:129 Template/Users/child_edit.ctp:122
+#: Template/Users/guardian_edit.ctp:129 Template/Users/parent_profile.ctp:106 Template/Users/profile_edit.ctp:180
+msgid "Pin Code"
+msgstr "Pincode"
+
+#: Template/Employee/Employees/profile_edit.ctp:190 Template/Parent/Users/add_child.ctp:136
+#: Template/Parent/Users/profile_edit.ctp:193 Template/Users/add_child.ctp:135;150
+#: Template/Users/child_edit.ctp:130 Template/Users/guardian_edit.ctp:137 Template/Users/parent_profile.ctp:128
+#: Template/Users/profile_edit.ctp:193
+msgid "Address (Area and Street)"
+msgstr "Adres (gebied en straat)"
+
+#: Template/Employee/Employees/profile_edit.ctp:200 Template/Parent/Users/add_child.ctp:140
+#: Template/Parent/Users/profile_edit.ctp:203 Template/Users/add_child.ctp:139;154
+#: Template/Users/child_edit.ctp:137 Template/Users/guardian_edit.ctp:144 Template/Users/parent_profile.ctp:132
+#: Template/Users/profile_edit.ctp:203
+msgid "City/District"
+msgstr "Stadsdeel"
+
+#: Template/Employee/Employees/profile_edit.ctp:213 Template/Parent/Users/profile_edit.ctp:216
+msgid "Update"
+msgstr "Bijwerken"
+
+#: Template/Employee/Employees/profile_edit.ctp:248 Template/Parent/Users/profile_edit.ctp:251
+#: Template/Users/profile_edit.ctp:251
+msgid "New Password"
+msgstr "nieuw paswoord"
+
+#: Template/Employee/Employees/profile_edit.ctp:261 Template/Parent/Users/profile_edit.ctp:264
+#: Template/Users/profile_edit.ctp:264
+msgid "Confirm New Password"
+msgstr "Bevestig nieuw wachtwoord"
+
+#: Template/Employee/Employees/roster.ctp:26 Template/Employee/Employees/roster_epanel.ctp:25
+msgid "Employee Roster"
+msgstr "Medewerkersrooster"
+
+#: Template/Employee/Employees/view.ctp:11
+msgid "Delete Employee"
+msgstr "Werknemer verwijderen"
+
+#: Template/Employee/Employees/view.ctp:20
+msgid "List Child Employees"
+msgstr "Geef een overzicht van de medewerkers van het kind"
+
+#: Template/Employee/Employees/view.ctp:21
+msgid "New Child Employee"
+msgstr "Nieuwe kindwerknemer"
+
+#: Template/Employee/Employees/view.ctp:28;158
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: Template/Employee/Employees/view.ctp:72
+msgid "Parent Employee"
+msgstr "Oudermedewerker"
+
+#: Template/Employee/Employees/view.ctp:76
+msgid "Group"
+msgstr "Groep"
+
+#: Template/Employee/Employees/view.ctp:80;175
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: Template/Employee/Employees/view.ctp:84;177
+msgid "Dob"
+msgstr "Dob"
+
+#: Template/Employee/Employees/view.ctp:92;180
+msgid "Uuid"
+msgstr "uuid"
+
+#: Template/Employee/Employees/view.ctp:100;182 Template/Users/parent_profile.ctp:115
+msgid "Bank Name"
+msgstr "Banknaam"
+
+#: Template/Employee/Employees/view.ctp:104;183
+msgid "Account"
+msgstr "Account"
+
+#: Template/Employee/Employees/view.ctp:108;184 Template/Parent/Users/manage_guardian.ctp:44
+msgid "Relation"
+msgstr "Relatie"
+
+#: Template/Employee/Employees/view.ctp:112;185 Template/Parent/Users/add_child.ctp:113
+#: Template/Parent/Users/attendance.ctp:55 Template/Parent/Users/basic_info.ctp:58
+#: Template/Parent/Users/bso_agrement.ctp:128 Template/Parent/Users/childview.ctp:58;168
+#: Template/Users/add_child.ctp:112 Template/Users/attendance.ctp:55 Template/Users/child_edit.ctp:116
+#: Template/Users/childview.ctp:58;168
+msgid "School"
+msgstr "School"
+
+#: Template/Employee/Employees/view.ctp:136;179
+msgid "Bsn No"
+msgstr "Bsn Nee"
+
+#: Template/Employee/Employees/view.ctp:140;186
+msgid "Workstart Date"
+msgstr "Werkstartdatum"
+
+#: Template/Employee/Employees/view.ctp:144;187
+msgid "Workend Date"
+msgstr "Werkingsdatum"
+
+#: Template/Employee/Employees/view.ctp:153
+msgid "Related Employees"
+msgstr "Gerelateerde werknemers"
+
+#: Template/Employee/Employees/view.ctp:168
+msgid "Role Id"
+msgstr "Rol-ID"
+
+#: Template/Employee/Employees/view.ctp:174
+msgid "Group Id"
+msgstr "Groeps-ID"
+
+#: Template/Layout/Parent.ctp:22 Template/Layout/admin.ctp:22;150 Template/Layout/emplayout.ctp:22
+msgid "BSO"
+msgstr "BSO"
+
+#: Template/Layout/Parent.ctp:78 Template/Layout/admin.ctp:93 Template/Layout/emplayout.ctp:74
+msgid "Toggle navigation"
+msgstr "Navigatie omschakelen"
+
+#: Template/Layout/Parent.ctp:135 Template/Layout/admin.ctp:227 Template/Parent/Users/childview.ctp:186
+#: Template/Parent/Users/profile_edit.ctp:64 Template/Users/childview.ctp:186 Template/Users/parents.ctp:6
+#: Template/Users/profile_edit.ctp:64
+msgid "Parent"
+msgstr "Ouder"
+
+#: Template/Layout/Parent.ctp:136 Template/Layout/admin.ctp:151 Template/Layout/emplayout.ctp:134
+msgid "Member since"
+msgstr "Lid sinds"
+
+#: Template/Layout/Parent.ctp:157 Template/Layout/admin.ctp:172 Template/Layout/emplayout.ctp:155
+msgid "Profile"
+msgstr "Profiel"
+
+#: Template/Layout/Parent.ctp:161 Template/Layout/admin.ctp:176 Template/Layout/emplayout.ctp:159
+msgid "Sign Out"
+msgstr "Afmelden"
+
+#: Template/Layout/Parent.ctp:188 Template/Layout/admin.ctp:203 Template/Layout/emplayout.ctp:189
+#: Template/Layout/supperadmin.ctp:92
+msgid "MAIN NAVIGATION"
+msgstr "HOOFDNAVIGATIE"
+
+#: Template/Layout/Parent.ctp:197
+msgid "Manage Children"
+msgstr "Kinderen beheren"
+
+#: Template/Layout/Parent.ctp:203
+msgid "Manage Guardian"
+msgstr "Beheer Guardian"
+
+#: Template/Layout/Parent.ctp:207 Template/Parent/Users/childview.ctp:96;106
+#: Template/Parent/Users/my_services.ctp:4 Template/Parent/Users/myprevious_services.ctp:4
+#: Template/Users/child_services.ctp:4 Template/Users/childview.ctp:96;106
+msgid "Services"
+msgstr "Diensten"
+
+#: Template/Layout/Parent.ctp:210
+msgid "Buy Services"
+msgstr "Services kopen"
+
+#: Template/Layout/Parent.ctp:216 Template/Parent/Users/index.ctp:41
+msgid "My Services"
+msgstr "Mijn diensten"
+
+#: Template/Layout/Parent.ctp:222
+msgid "My Previous Services"
+msgstr "Mijn vorige services"
+
+#: Template/Layout/Parent.ctp:241
+msgid "My Invoices"
+msgstr "Mijn facturen"
+
+#: Template/Layout/Parent.ctp:253 Template/Layout/admin.ctp:317 Template/Layout/emplayout.ctp:227
+#: Template/Layout/supperadmin.ctp:118
+msgid "Copyright &copy; 2018-2019"
+msgstr "Auteursrecht & kopie; 2018-2019"
+
+#: Template/Layout/Parent.ctp:253 Template/Layout/admin.ctp:317 Template/Layout/emplayout.ctp:227
+#: Template/Layout/login.ctp:22 Template/Layout/supperadmin.ctp:118
+msgid "Bolder Buren"
+msgstr "Bolder Buren"
+
+#: Template/Layout/Parent.ctp:253 Template/Layout/admin.ctp:317 Template/Layout/emplayout.ctp:227
+#: Template/Layout/supperadmin.ctp:118
+msgid ""
+"All rights\n"
+"            reserved"
+msgstr "Alle rechten \\ n gereserveerd"
+
+#: Template/Layout/Parentplan.ctp:101
+msgid "Back to Home page"
+msgstr "Terug naar de startpagina"
+
+#: Template/Layout/admin.ctp:104
+msgid "You have 10 notifications"
+msgstr "Je hebt 10 meldingen"
+
+#: Template/Layout/admin.ctp:110
+msgid "5 new members joined today"
+msgstr "Vandaag zijn 5 nieuwe leden toegetreden"
+
+#: Template/Layout/admin.ctp:115
+msgid ""
+"Very long description here that may not fit into the\n"
+"                                    page and may cause design problems"
+msgstr "Zeer lange beschrijving die mogelijk niet in de \\ n-pagina past en ontwerpproblemen kan veroorzaken"
+
+#: Template/Layout/admin.ctp:213
+msgid "MANAGE USERS"
+msgstr "GEBRUIKERS BEHEREN"
+
+#: Template/Layout/admin.ctp:241
+msgid "Planning"
+msgstr "Planning"
+
+#: Template/Layout/admin.ctp:247 Template/Parent/Users/download_invoice.ctp:3 Template/Users/view_invoice.ctp:3
+msgid "Invoice"
+msgstr "Factuur"
+
+#: Template/Layout/admin.ctp:253 Template/Users/manage_services.ctp:5
+msgid "Manage Services"
+msgstr "Services beheren"
+
+#: Template/Layout/admin.ctp:268
+msgid "Settings"
+msgstr "instellingen"
+
+#: Template/Layout/admin.ctp:276
+msgid "Calendar Setting"
+msgstr "Kalender instelling"
+
+#: Template/Layout/admin.ctp:282
+msgid "Invoice Setting"
+msgstr "Factuurinstelling"
+
+#: Template/Layout/admin.ctp:288
+msgid "Plan Setting"
+msgstr "Plan instellen"
+
+#: Template/Layout/admin.ctp:294
+msgid "Attendance Setting"
+msgstr "Aanwezigheidsinstelling"
+
+#: Template/Layout/admin.ctp:300
+msgid "Services Setting"
+msgstr "Services instellen"
+
+#: Template/Layout/emplayout.ctp:198
+msgid "Roster"
+msgstr "roster"
+
+#: Template/Layout/emplayout.ctp:210
+msgid "Mark Attendance"
+msgstr "Mark Attendance"
+
+#: Template/Layout/error.ctp:33
+msgid "Error"
+msgstr "Fout"
+
+#: Template/Layout/error.ctp:40 Template/Parent/Users/buy_plan.ctp:42 Template/Parent/Users/contract.ctp:226
+#: Template/Parent/Users/joining_weekselection.ctp:55 Template/Parent/Users/select_plan.ctp:114
+msgid "Back"
+msgstr "Terug"
+
+#: Template/Layout/supperadmin.ctp:7
+msgid "Super Admin | Kindplanner"
+msgstr "Super Admin | Kindplanner"
+
+#: Template/Layout/supperadmin.ctp:65
+msgid "Please wait"
+msgstr "Even geduld aub"
+
+#: Template/Parent/Users/add_child.ctp:5;164 Template/Parent/Users/index.ctp:150 Template/Users/add_child.ctp:5;163
+msgid "Add Child"
+msgstr "Voeg een kind toe"
+
+#: Template/Parent/Users/add_child.ctp:14 Template/Parent/Users/child_edit.ctp:14 Template/Users/add_child.ctp:14
+#: Template/Users/child_edit.ctp:14
+msgid "Please enter child details"
+msgstr "Voer uw kindgegevens in"
+
+#: Template/Parent/Users/add_child.ctp:22 Template/Parent/Users/child_edit.ctp:34
+#: Template/Parent/Users/guardian_edit.ctp:21 Template/Users/add_child.ctp:21 Template/Users/child_edit.ctp:21
+#: Template/Users/guardian_edit.ctp:23
+msgid "Son"
+msgstr "Zoon"
+
+#: Template/Parent/Users/add_child.ctp:22 Template/Parent/Users/child_edit.ctp:34
+#: Template/Parent/Users/guardian_edit.ctp:21 Template/Users/add_child.ctp:21 Template/Users/child_edit.ctp:21
+#: Template/Users/guardian_edit.ctp:23
+msgid "Daughter"
+msgstr "Dochter"
+
+#: Template/Parent/Users/add_child.ctp:22 Template/Parent/Users/child_edit.ctp:34
+#: Template/Parent/Users/guardian_edit.ctp:21 Template/Users/add_child.ctp:21 Template/Users/child_edit.ctp:21
+#: Template/Users/guardian_edit.ctp:23
+msgid "Other"
+msgstr "anders"
+
+#: Template/Parent/Users/add_child.ctp:47 Template/Parent/Users/add_guardian.ctp:44
+msgid "Upload Image"
+msgstr "Afbeelding uploaden"
+
+#: Template/Parent/Users/add_child.ctp:98;106 Template/Parent/Users/add_guardian.ctp:99;107
+#: Template/Parent/Users/child_edit.ctp:112 Template/Parent/Users/guardian_edit.ctp:113;121
+#: Template/Users/add_child.ctp:97 Template/Users/child_edit.ctp:100 Template/Users/guardian_edit.ctp:116
+msgid "Relation with child"
+msgstr "Relatie met kind"
+
+#: Template/Parent/Users/add_child.ctp:99 Template/Parent/Users/child_edit.ctp:105
+#: Template/Parent/Users/guardian_edit.ctp:114 Template/Users/add_child.ctp:98 Template/Users/child_edit.ctp:101
+#: Template/Users/guardian_edit.ctp:117
+msgid "Please select relation"
+msgstr "Selecteer een relatie"
+
+#: Template/Parent/Users/add_child.ctp:105 Template/Parent/Users/add_guardian.ctp:106
+#: Template/Users/add_child.ctp:104 Template/Users/child_edit.ctp:107 Template/Users/guardian_edit.ctp:123
+msgid "Please specify relation with child"
+msgstr "Specificeer de relatie met het kind"
+
+#: Template/Parent/Users/add_child.ctp:114 Template/Parent/Users/child_edit.ctp:121
+msgid "School Name"
+msgstr "Schoolnaam"
+
+#: Template/Parent/Users/add_child.ctp:121
+msgid "Same as parent"
+msgstr "Hetzelfde als ouder"
+
+#: Template/Parent/Users/add_child.ctp:123
+msgid "Differnt address"
+msgstr "Verschillend adres"
+
+#: Template/Parent/Users/add_guardian.ctp:4;134 Template/Parent/Users/index.ctp:166
+#: Template/Users/add_guardian.ctp:4
+msgid "Add Guardian"
+msgstr "Voeg Guardian toe"
+
+#: Template/Parent/Users/add_guardian.ctp:14 Template/Parent/Users/guardian_edit.ctp:14
+#: Template/Users/add_guardian.ctp:14 Template/Users/guardian_edit.ctp:14
+msgid "Please enter guardian details"
+msgstr "Voer alsjeblieft beschermergegevens in"
+
+#: Template/Parent/Users/add_guardian.ctp:20
+msgid "Go to guardian list"
+msgstr "Ga naar de voogdijst"
+
+#: Template/Parent/Users/attendance.ctp:65 Template/Parent/Users/basic_info.ctp:78
+#: Template/Parent/Users/childview.ctp:69 Template/Users/attendance.ctp:75 Template/Users/childview.ctp:69
+msgid "Pending Paymnet"
+msgstr "In afwachting van Paymnet"
+
+#: Template/Parent/Users/attendance.ctp:75 Template/Parent/Users/basic_info.ctp:88
+#: Template/Parent/Users/childview.ctp:79 Template/Parent/Users/download_invoice.ctp:702
+#: Template/Parent/Users/send_invoice.ctp:639 Template/Users/attendance.ctp:85 Template/Users/childview.ctp:79
+#: Template/Users/send_invoice.ctp:613 Template/Users/view_invoice.ctp:658
+msgid "Pay by Date"
+msgstr "Betaal op datum"
+
+#: Template/Parent/Users/attendance.ctp:104
+msgid "Total Absent"
+msgstr "Totaal afwezig"
+
+#: Template/Parent/Users/basic_info.ctp:5 Template/Parent/Users/childview.ctp:5 Template/Users/basic_info.ctp:4
+#: Template/Users/childview.ctp:5
+msgid "Child Basic Info"
+msgstr "Basisinformatie kind"
+
+#: Template/Parent/Users/basic_info.ctp:105 Template/Parent/Users/childview.ctp:97;161
+#: Template/Users/childview.ctp:97;161
+msgid "Personal data"
+msgstr "Persoonlijke gegevens"
+
+#: Template/Parent/Users/basic_info.ctp:106 Template/Parent/Users/childview.ctp:98;243
+#: Template/Users/childview.ctp:98;243
+msgid "Behavior and Social"
+msgstr "Gedrag en sociaal"
+
+#: Template/Parent/Users/basic_info.ctp:107 Template/Parent/Users/childview.ctp:99 Template/Users/childview.ctp:99
+msgid "Medical and emotional"
+msgstr "Medisch en emotioneel"
+
+#: Template/Parent/Users/basic_info.ctp:108 Template/Parent/Users/childview.ctp:100
+#: Template/Users/childview.ctp:100
+msgid "Parenting data"
+msgstr "Gegevens over ouders"
+
+#: Template/Parent/Users/basic_info.ctp:109 Template/Parent/Users/childview.ctp:101
+#: Template/Users/childview.ctp:101
+msgid "Other information"
+msgstr "Andere informatie"
+
+#: Template/Parent/Users/basic_info.ctp:117
+msgid "1. Personal data"
+msgstr "1. Persoonlijke gegevens"
+
+#: Template/Parent/Users/basic_info.ctp:123
+msgid "Family composition"
+msgstr "Gezinssamenstelling"
+
+#: Template/Parent/Users/basic_info.ctp:177;221 Template/Parent/Users/child_edit.ctp:104
+msgid "Relation with child *"
+msgstr "Relatie met kind *"
+
+#: Template/Parent/Users/basic_info.ctp:185;229 Template/Parent/Users/child_edit.ctp:111
+msgid "Please specify relation with child *"
+msgstr "Specificeer de relatie met het kind *"
+
+#: Template/Parent/Users/basic_info.ctp:239
+msgid "Add More"
+msgstr "Voeg meer toe"
+
+#: Template/Parent/Users/basic_info.ctp:242 Template/Parent/Users/childview.ctp:212
+#: Template/Users/childview.ctp:212
+msgid "Additional telephone number (s) i.v.m. absence"
+msgstr "Extra telefoonnummer (s) ivm afwezigheid"
+
+#: Template/Parent/Users/basic_info.ctp:298;475;655;767 Template/Users/childview.ctp:554
+msgid "Next"
+msgstr "volgende"
+
+#: Template/Parent/Users/basic_info.ctp:308
+msgid "2. Playing behavior"
+msgstr "2. Speelgedrag"
+
+#: Template/Parent/Users/basic_info.ctp:312 Template/Parent/Users/childview.ctp:245
+#: Template/Users/childview.ctp:245
+msgid "Are there things your child likes to do? If so what?"
+msgstr "Zijn er dingen die je kind graag doet? Zo ja, wat?"
+
+#: Template/Parent/Users/basic_info.ctp:317;351;372;387;402;416;430;444;458;493;513;533;553;568;584;597;612;627;642;673;689;704;723;739;754;822;837;852;868;887;907
+#: Template/Parent/Users/childview.ctp:247;267;278;285;292;299;306;312;319;334;343;352;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;505;515;523;533
+#: Template/Users/childview.ctp:247;267;278;285;292;299;306;312;319;334;343;352;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;505;515;523;533
+msgid "Yes"
+msgstr "Ja"
+
+#: Template/Parent/Users/basic_info.ctp:319;353;374;389;404;418;432;446;460;495;515;535;555;570;585;599;614;629;644;675;691;706;725;741;756;824;839;854;870;889;909
+#: Template/Parent/Users/childview.ctp:247;267;278;285;292;299;306;312;319;334;343;352;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;503;515;523;533
+#: Template/Users/childview.ctp:247;267;278;285;292;299;306;312;319;334;343;352;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;503;515;523;533
+msgid "No"
+msgstr "Nee"
+
+#: Template/Parent/Users/basic_info.ctp:322;323;357;463;464;498;499;518;519;538;539;709;710;873;874;892;893;912;913;922
+msgid "Please indicate"
+msgstr "Geef aan"
+
+#: Template/Parent/Users/basic_info.ctp:332 Template/Parent/Users/childview.ctp:256
+#: Template/Users/childview.ctp:256
+msgid "Where does your child prefer to play?"
+msgstr "Waar speelt uw kind het liefst?"
+
+#: Template/Parent/Users/basic_info.ctp:336
+msgid "Inside"
+msgstr "Binnen"
+
+#: Template/Parent/Users/basic_info.ctp:338
+msgid "Outside"
+msgstr "Buiten"
+
+#: Template/Parent/Users/basic_info.ctp:347 Template/Parent/Users/childview.ctp:265
+#: Template/Users/childview.ctp:265
+msgid "Can your child be focused on something for a longer period of time?"
+msgstr "Kan uw kind voor een langere periode op iets gericht zijn?"
+
+#: Template/Parent/Users/basic_info.ctp:364 Template/Parent/Users/childview.ctp:274
+#: Template/Users/childview.ctp:274
+msgid "3. Social information"
+msgstr "3. Sociale informatie"
+
+#: Template/Parent/Users/basic_info.ctp:368 Template/Parent/Users/childview.ctp:276
+#: Template/Users/childview.ctp:276
+msgid "Does the child have an interest in other children"
+msgstr "Heeft het kind interesse in andere kinderen?"
+
+#: Template/Parent/Users/basic_info.ctp:383 Template/Parent/Users/childview.ctp:283
+#: Template/Users/childview.ctp:283
+msgid "Does the child interact with peers in a pleasant way?"
+msgstr "Communiceert het kind op een prettige manier met leeftijdsgenoten?"
+
+#: Template/Parent/Users/basic_info.ctp:398 Template/Parent/Users/childview.ctp:290
+#: Template/Users/childview.ctp:290
+msgid "Does the child have boyfriends / girlfriends?"
+msgstr "Heeft het kind vriendjes / vriendinnen?"
+
+#: Template/Parent/Users/basic_info.ctp:412 Template/Parent/Users/childview.ctp:297
+#: Template/Users/childview.ctp:297
+msgid "Does the child interact with brothers and sisters in a pleasant way?"
+msgstr "Communiceert het kind op een prettige manier met broers en zussen?"
+
+#: Template/Parent/Users/basic_info.ctp:426 Template/Parent/Users/childview.ctp:304
+#: Template/Users/childview.ctp:304
+msgid "Does the child interact with the parent (s) / caregiver (s) in a pleasant way?"
+msgstr "Heeft het kind op een prettige manier interactie met de ouder (s) / verzorger (s)?"
+
+#: Template/Parent/Users/basic_info.ctp:440 Template/Parent/Users/childview.ctp:310
+#: Template/Users/childview.ctp:310
+msgid "Can the child move around in another?"
+msgstr "Kan het kind in een andere bewegen?"
+
+#: Template/Parent/Users/basic_info.ctp:454 Template/Parent/Users/childview.ctp:317
+#: Template/Users/childview.ctp:317
+msgid ""
+"Does the child often argue with others? If so, what is the (possible) cause of this and how does he / she "
+"resolve this"
+msgstr "Heeft het kind vaak ruzie met anderen? Zo ja, wat is de (mogelijke) oorzaak hiervan en hoe lost hij dit op"
+
+#: Template/Parent/Users/basic_info.ctp:473;653;765;927
+msgid "Previous"
+msgstr "voorgaand"
+
+#: Template/Parent/Users/basic_info.ctp:485 Template/Parent/Users/childview.ctp:330
+#: Template/Users/childview.ctp:330
+msgid "4. Medical information"
+msgstr "4. Medische informatie"
+
+#: Template/Parent/Users/basic_info.ctp:489 Template/Parent/Users/childview.ctp:332
+#: Template/Users/childview.ctp:332
+msgid "Is there special illness? If so, what should the BSO know about this?"
+msgstr "Is er een speciale ziekte? Zo ja, wat moet de BSO hiervan weten?"
+
+#: Template/Parent/Users/basic_info.ctp:509 Template/Parent/Users/childview.ctp:341
+#: Template/Users/childview.ctp:341
+msgid "Is there any allergy? If so which, and how should the BSO take this into account?"
+msgstr "Is er allergie? Zo ja, en hoe moet de BSO hier rekening mee houden?"
+
+#: Template/Parent/Users/basic_info.ctp:529 Template/Parent/Users/childview.ctp:350
+#: Template/Users/childview.ctp:350
+msgid "Are there problems with the function of the senses?"
+msgstr "Zijn er problemen met de functie van de zintuigen?"
+
+#: Template/Parent/Users/basic_info.ctp:549 Template/Parent/Users/childview.ctp:358
+#: Template/Users/childview.ctp:358
+msgid "Has the motor development progressed normally?"
+msgstr "Is de motorische ontwikkeling normaal verlopen?"
+
+#: Template/Parent/Users/basic_info.ctp:564 Template/Parent/Users/childview.ctp:365
+#: Template/Users/childview.ctp:365
+msgid "Is your child potty-trained?"
+msgstr "Is uw kind zindelijk?"
+
+#: Template/Parent/Users/basic_info.ctp:576 Template/Parent/Users/childview.ctp:372
+#: Template/Users/childview.ctp:372
+msgid "5. Emotional data"
+msgstr "5. Emotionele gegevens"
+
+#: Template/Parent/Users/basic_info.ctp:580 Template/Parent/Users/childview.ctp:374
+#: Template/Users/childview.ctp:374
+msgid "Can the child express different emotions? How does he / she express that?"
+msgstr "Kan het kind verschillende emoties uiten? Hoe spreekt hij dat uit?"
+
+#: Template/Parent/Users/basic_info.ctp:593 Template/Parent/Users/childview.ctp:383
+#: Template/Users/childview.ctp:383
+msgid "fear"
+msgstr "angst"
+
+#: Template/Parent/Users/basic_info.ctp:608 Template/Parent/Users/childview.ctp:392
+#: Template/Users/childview.ctp:392
+msgid "joy"
+msgstr "vreugde"
+
+#: Template/Parent/Users/basic_info.ctp:623 Template/Parent/Users/childview.ctp:401
+#: Template/Users/childview.ctp:401
+msgid "anger"
+msgstr "boosheid"
+
+#: Template/Parent/Users/basic_info.ctp:638 Template/Parent/Users/childview.ctp:409
+#: Template/Users/childview.ctp:409
+msgid "sadness"
+msgstr "droefheid"
+
+#: Template/Parent/Users/basic_info.ctp:665 Template/Parent/Users/childview.ctp:420
+#: Template/Users/childview.ctp:420
+msgid "6. Parenting data"
+msgstr "6. Gegevens over ouders"
+
+#: Template/Parent/Users/basic_info.ctp:669 Template/Parent/Users/childview.ctp:422
+#: Template/Users/childview.ctp:422
+msgid "Are there things in upbringing that you regularly encounter?"
+msgstr "Zijn er dingen in de opvoeding die je regelmatig tegenkomt?"
+
+#: Template/Parent/Users/basic_info.ctp:681 Template/Parent/Users/childview.ctp:430
+#: Template/Users/childview.ctp:430
+msgid "7. Language development"
+msgstr "7. Taalontwikkeling"
+
+#: Template/Parent/Users/basic_info.ctp:685 Template/Parent/Users/childview.ctp:432
+#: Template/Users/childview.ctp:432
+msgid "Is your child understandable?"
+msgstr "Is uw kind begrijpelijk?"
+
+#: Template/Parent/Users/basic_info.ctp:700 Template/Parent/Users/childview.ctp:438
+#: Template/Users/childview.ctp:438
+msgid "Does your child always understand what you are saying?"
+msgstr "Begrijpt uw kind altijd wat u zegt?"
+
+#: Template/Parent/Users/basic_info.ctp:719 Template/Parent/Users/childview.ctp:447
+#: Template/Users/childview.ctp:447
+msgid "Does your child have sufficient vocabulary?"
+msgstr "Heeft uw kind voldoende vocabulaire?"
+
+#: Template/Parent/Users/basic_info.ctp:734 Template/Parent/Users/childview.ctp:454
+#: Template/Users/childview.ctp:454
+msgid "Does your child speak easily to others?"
+msgstr "Spreekt uw kind gemakkelijk met anderen?"
+
+#: Template/Parent/Users/basic_info.ctp:750 Template/Parent/Users/childview.ctp:461
+#: Template/Users/childview.ctp:461
+msgid "Your child is stuttering"
+msgstr "Je kind stottert"
+
+#: Template/Parent/Users/basic_info.ctp:777 Template/Parent/Users/childview.ctp:469
+#: Template/Users/childview.ctp:469
+msgid "8. Other information"
+msgstr "8. Overige informatie"
+
+#: Template/Parent/Users/basic_info.ctp:781 Template/Parent/Users/childview.ctp:471
+#: Template/Users/childview.ctp:471
+msgid "Nationality child"
+msgstr "Nationaliteitskind"
+
+#: Template/Parent/Users/basic_info.ctp:783
+msgid " Nationality child"
+msgstr " Nationaliteitskind"
+
+#: Template/Parent/Users/basic_info.ctp:788;790 Template/Parent/Users/childview.ctp:476
+#: Template/Users/childview.ctp:476
+msgid "Soc./med. Indication"
+msgstr "Soc./med. aanwijzing"
+
+#: Template/Parent/Users/basic_info.ctp:798;800 Template/Parent/Users/childview.ctp:480
+#: Template/Users/childview.ctp:480
+msgid "General practitioner + tel. No"
+msgstr "Huisarts + tel. Nee"
+
+#: Template/Parent/Users/basic_info.ctp:805;807 Template/Parent/Users/childview.ctp:484
+#: Template/Users/childview.ctp:484
+msgid "Dentist + tel. No"
+msgstr "Tandarts + tel. Nee"
+
+#: Template/Parent/Users/basic_info.ctp:814 Template/Parent/Users/childview.ctp:489
+#: Template/Users/childview.ctp:489
+msgid "9. BSO"
+msgstr "9. BSO"
+
+#: Template/Parent/Users/basic_info.ctp:818 Template/Parent/Users/childview.ctp:491
+#: Template/Users/childview.ctp:491
+msgid "Does the child want to go to the BSO?"
+msgstr "Wil het kind naar de BSO?"
+
+#: Template/Parent/Users/basic_info.ctp:833 Template/Parent/Users/childview.ctp:497
+#: Template/Users/childview.ctp:497
+msgid "Does your child visit a playgroup or daycare center?"
+msgstr "Bezoekt uw kind een peuterspeelzaal of een kinderdagverblijf?"
+
+#: Template/Parent/Users/basic_info.ctp:848 Template/Parent/Users/childview.ctp:501
+#: Template/Users/childview.ctp:501
+msgid "Can we look forward to a transfer form with regard to this?"
+msgstr "Kunnen wij met betrekking hiertoe uitkijken naar een overschrijvingsformulier?"
+
+#: Template/Parent/Users/basic_info.ctp:860 Template/Parent/Users/childview.ctp:511
+#: Template/Users/childview.ctp:511
+msgid "10. Other questions / comments"
+msgstr "10. Andere vragen / opmerkingen"
+
+#: Template/Parent/Users/basic_info.ctp:864 Template/Parent/Users/childview.ctp:513
+#: Template/Users/childview.ctp:513
+msgid "Do you have additional information about your child?"
+msgstr "Heb je aanvullende informatie over je kind?"
+
+#: Template/Parent/Users/basic_info.ctp:883 Template/Parent/Users/childview.ctp:521
+#: Template/Users/childview.ctp:521
+msgid "Are there children with whom your child plays well / likes?"
+msgstr "Zijn er kinderen met wie je kind goed / leuk speelt?"
+
+#: Template/Parent/Users/basic_info.ctp:899
+msgid "11. Care"
+msgstr "11. Zorg"
+
+#: Template/Parent/Users/basic_info.ctp:903 Template/Parent/Users/childview.ctp:531
+#: Template/Users/childview.ctp:531
+msgid "Can the school be contacted for childcare?"
+msgstr "Kan de school worden gecontacteerd voor kinderopvang?"
+
+#: Template/Parent/Users/basic_info.ctp:920 Template/Parent/Users/childview.ctp:538
+#: Template/Users/childview.ctp:538
+msgid "12. What do parents expect from BSO Bolderburen?"
+msgstr "12. Wat verwachten ouders van BSO Bolderburen?"
+
+#: Template/Parent/Users/bso_agrement.ctp:14
+msgid "BSO agreement"
+msgstr "BSO-overeenkomst"
+
+#: Template/Parent/Users/bso_agrement.ctp:19 Template/Parent/Users/contract.ctp:8
+msgid "Decrease after-school care:"
+msgstr "Verlaag naschoolse opvang:"
+
+#: Template/Parent/Users/bso_agrement.ctp:35 Template/Parent/Users/contract.ctp:24
+msgid "Plan"
+msgstr "Plan"
+
+#: Template/Parent/Users/bso_agrement.ctp:41 Template/Parent/Users/contract.ctp:30
+#: Template/Users/manage_services.ctp:72
+msgid "Start time:"
+msgstr "Starttijd:"
+
+#: Template/Parent/Users/bso_agrement.ctp:44 Template/Parent/Users/contract.ctp:33
+#: Template/Users/manage_services.ctp:75
+msgid "End time:"
+msgstr "Eindtijd:"
+
+#: Template/Parent/Users/bso_agrement.ctp:47 Template/Parent/Users/contract.ctp:36
+#: Template/Parent/Users/send_invoice.ctp:147 Template/Users/child_services.ctp:131
+#: Template/Users/send_invoice.ctp:115
+msgid "Price"
+msgstr "Prijs"
+
+#: Template/Parent/Users/bso_agrement.ctp:68
+msgid "Name child"
+msgstr "Geef een kind een naam"
+
+#: Template/Parent/Users/bso_agrement.ctp:108
+msgid "residence"
+msgstr "residentie"
+
+#: Template/Parent/Users/bso_agrement.ctp:118
+msgid "telephone number"
+msgstr "telefoon nummer"
+
+#: Template/Parent/Users/bso_agrement.ctp:138
+msgid "Name of parents / guardians"
+msgstr "Naam van de ouders / verzorgers"
+
+#: Template/Parent/Users/bso_agrement.ctp:153
+msgid "Registration date"
+msgstr "Registratie datum"
+
+#: Template/Parent/Users/bso_agrement.ctp:163
+msgid "Date of entry:"
+msgstr "Datum van invoer:"
+
+#: Template/Parent/Users/bso_agrement.ctp:173
+msgid "Daycare on the following days"
+msgstr "Kinderopvang op de volgende dagen"
+
+#: Template/Parent/Users/bso_agrement.ctp:188
+msgid "Hereby, the undersigned declares to adhere to the associated obligations"
+msgstr "Hierbij verklaart ondergetekende zich te houden aan de bijbehorende verplichtingen"
+
+#: Template/Parent/Users/bso_agrement.ctp:191 Template/Parent/Users/contract.ctp:182
+msgid "date:-"
+msgstr "datum:-"
+
+#: Template/Parent/Users/bso_agrement.ctp:199
+msgid "client's signature:-"
+msgstr "handtekening van de klant: -"
+
+#: Template/Parent/Users/bso_agrement.ctp:216 Template/Parent/Users/contract.ctp:209
+msgid "Upload Signature..."
+msgstr "Upload handtekening ..."
+
+#: Template/Parent/Users/bso_agrement.ctp:232
+msgid "Place:-"
+msgstr "Plaats:-"
+
+#: Template/Parent/Users/bso_agrement.ctp:268 Template/Parent/Users/buy_plan.ctp:55
+#: Template/Parent/Users/contract.ctp:245 Template/Parent/Users/joining_weekselection.ctp:64
+#: Template/Parent/Users/select_child.ctp:41 Template/Parent/Users/select_plan.ctp:130
+msgid "Continue"
+msgstr "Doorgaan met"
+
+#: Template/Parent/Users/buy_plan.ctp:8
+msgid "Select Timeslot *"
+msgstr "Selecteer tijdslot *"
+
+#: Template/Parent/Users/buy_plan.ctp:14
+msgid "No Timeslot Available"
+msgstr "Geen tijdslot beschikbaar"
+
+#: Template/Parent/Users/buy_services.ctp:4 Template/Parent/Users/index.ctp:183
+#: Template/Users/child_services.ctp:142
+msgid "Buy Service"
+msgstr "Koop service"
+
+#: Template/Parent/Users/buy_services.ctp:28
+msgid "Buy Now"
+msgstr "Koop nu"
+
+#: Template/Parent/Users/child_edit.ctp:5 Template/Users/add_services.ctp:19 Template/Users/child_edit.ctp:5
+#: Template/Users/edit_services.ctp:19
+msgid "Edit Child"
+msgstr "Edit Child"
+
+#: Template/Parent/Users/child_edit.ctp:68
+msgid "Last Name *"
+msgstr "Achternaam *"
+
+#: Template/Parent/Users/child_edit.ctp:120
+msgid "School *"
+msgstr "School *"
+
+#: Template/Parent/Users/child_edit.ctp:152 Template/Users/child_edit.ctp:148
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: Template/Parent/Users/childview.ctp:191 Template/Parent/Users/profile_edit.ctp:66
+#: Template/Users/childview.ctp:191 Template/Users/profile_edit.ctp:66
+msgid "Guardian"
+msgstr "Voogd"
+
+#: Template/Parent/Users/childview.ctp:248;259;267;278;285;292;299;306;312;319;334;343;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;506;515;523;533
+#: Template/Users/childview.ctp:248;259;267;278;285;292;299;306;312;319;334;343;360;367;376;385;394;403;411;424;434;440;449;456;463;493;498;506;515;523;533
+msgid "Not Added Yet"
+msgstr "Nog niet toegevoegd"
+
+#: Template/Parent/Users/contract.ctp:4
+msgid "Contract"
+msgstr "Contract"
+
+#: Template/Parent/Users/contract.ctp:50
+msgid "Contract for after school care between Stichting BSO Bolderburen and parent (s) of"
+msgstr "Contract voor naschoolse opvang tussen Stichting BSO Bolderburen en ouder (s) van"
+
+#: Template/Parent/Users/contract.ctp:54
+msgid "Child data:"
+msgstr "Child data:"
+
+#: Template/Parent/Users/contract.ctp:58
+msgid "Name:"
+msgstr "Naam:"
+
+#: Template/Parent/Users/contract.ctp:59
+msgid "Date of birth:"
+msgstr "Geboortedatum:"
+
+#: Template/Parent/Users/contract.ctp:60
+msgid "Contractnummer:"
+msgstr "Contractnummer:"
+
+#: Template/Parent/Users/contract.ctp:67
+msgid "Childcare type:"
+msgstr "Type kinderopvang:"
+
+#: Template/Parent/Users/contract.ctp:77
+msgid "Reception organization:"
+msgstr "Receptie organisatie:"
+
+#: Template/Parent/Users/contract.ctp:92
+msgid "Registration Number:"
+msgstr "Registratie nummer:"
+
+#: Template/Parent/Users/contract.ctp:102
+msgid "starting date:"
+msgstr "begin datum:"
+
+#: Template/Parent/Users/contract.ctp:191
+msgid "signature parent (s), caregiver (s)"
+msgstr "handtekeningouder (s), verzorger (s)"
+
+#: Template/Parent/Users/download_invoice.ctp:69 Template/Parent/Users/my_services.ctp:59
+#: Template/Parent/Users/myprevious_services.ctp:90;114 Template/Parent/Users/send_invoice.ctp:42
+#: Template/Users/view_invoice.ctp:65
+msgid "Child Name :"
+msgstr "Naam kind:"
+
+#: Template/Parent/Users/download_invoice.ctp:70 Template/Parent/Users/send_invoice.ctp:43
+#: Template/Users/view_invoice.ctp:66
+msgid "DOB :"
+msgstr "DOB:"
+
+#: Template/Parent/Users/download_invoice.ctp:71 Template/Users/view_invoice.ctp:67
+msgid "Parent Name :"
+msgstr "Ouders naam :"
+
+#: Template/Parent/Users/download_invoice.ctp:72 Template/Parent/Users/send_invoice.ctp:45
+#: Template/Users/view_invoice.ctp:68
+msgid "REGD ID :"
+msgstr "REGD ID:"
+
+#: Template/Parent/Users/download_invoice.ctp:73 Template/Parent/Users/send_invoice.ctp:46
+#: Template/Users/view_invoice.ctp:69
+msgid "Registration Date :"
+msgstr "Registratie datum :"
+
+#: Template/Parent/Users/download_invoice.ctp:74 Template/Parent/Users/send_invoice.ctp:47
+#: Template/Users/view_invoice.ctp:70
+msgid "School Name :"
+msgstr "Schoolnaam :"
+
+#: Template/Parent/Users/download_invoice.ctp:79 Template/Users/view_invoice.ctp:75
+msgid "Invoice Number"
+msgstr "Factuurnummer"
+
+#: Template/Parent/Users/download_invoice.ctp:80 Template/Parent/Users/send_invoice.ctp:52
+#: Template/Users/view_invoice.ctp:76
+msgid "Invoice Date :"
+msgstr "Factuur datum :"
+
+#: Template/Parent/Users/download_invoice.ctp:81 Template/Parent/Users/send_invoice.ctp:53
+#: Template/Users/view_invoice.ctp:77
+msgid "Relief Time Before Class :"
+msgstr "Relief Tijd voor Klasse:"
+
+#: Template/Parent/Users/download_invoice.ctp:82 Template/Parent/Users/send_invoice.ctp:54
+#: Template/Users/view_invoice.ctp:78
+msgid "Relief Time After Class :"
+msgstr "Relief Time After Class:"
+
+#: Template/Parent/Users/download_invoice.ctp:83 Template/Parent/Users/send_invoice.ctp:55
+#: Template/Users/view_invoice.ctp:79
+msgid "Pay by Date :"
+msgstr "Betaal op datum:"
+
+#: Template/Parent/Users/download_invoice.ctp:84 Template/Users/view_invoice.ctp:80
+msgid "Calendet Type :"
+msgstr "Calendet Type:"
+
+#: Template/Parent/Users/download_invoice.ctp:183 Template/Parent/Users/send_invoice.ctp:137
+#: Template/Users/view_invoice.ctp:138
+msgid "Your plan info"
+msgstr "Je plan info"
+
+#: Template/Parent/Users/download_invoice.ctp:189 Template/Parent/Users/send_invoice.ctp:142
+#: Template/Users/send_invoice.ctp:110 Template/Users/view_invoice.ctp:144
+msgid "Plan Name"
+msgstr "Plan naam"
+
+#: Template/Parent/Users/download_invoice.ctp:190;217 Template/Parent/Users/send_invoice.ctp:143;170
+#: Template/Users/child_services.ctp:104;129 Template/Users/send_invoice.ctp:111;138
+#: Template/Users/view_invoice.ctp:145;172
+msgid "No Of Teachers Allotted"
+msgstr "Aantal toegestane leraren"
+
+#: Template/Parent/Users/download_invoice.ctp:192 Template/Users/send_invoice.ctp:113
+msgid "End Time "
+msgstr "Eindtijd "
+
+#: Template/Parent/Users/download_invoice.ctp:193 Template/Parent/Users/my_services.ctp:62
+#: Template/Parent/Users/myprevious_services.ctp:93;117 Template/Parent/Users/send_invoice.ctp:146
+#: Template/Users/add_services.ctp:61 Template/Users/child_services.ctp:99;124 Template/Users/edit_services.ctp:61
+#: Template/Users/send_invoice.ctp:114 Template/Users/view_invoice.ctp:148
+msgid "Age Group"
+msgstr "Leeftijdsgroep"
+
+#: Template/Parent/Users/download_invoice.ctp:194 Template/Users/view_invoice.ctp:149
+msgid "Plan Price"
+msgstr "Planprijs"
+
+#: Template/Parent/Users/download_invoice.ctp:202 Template/Parent/Users/my_services.ctp:63
+#: Template/Parent/Users/myprevious_services.ctp:94;118 Template/Users/view_invoice.ctp:157
+msgid "Min Age:"
+msgstr "Min Leeftijd:"
+
+#: Template/Parent/Users/download_invoice.ctp:202 Template/Parent/Users/my_services.ctp:64
+#: Template/Parent/Users/myprevious_services.ctp:95;119
+msgid "Max Age:"
+msgstr "Max leeftijd:"
+
+#: Template/Parent/Users/download_invoice.ctp:211 Template/Parent/Users/send_invoice.ctp:164
+#: Template/Users/send_invoice.ctp:132 Template/Users/view_invoice.ctp:166
+msgid "This Month Charges for"
+msgstr "Deze maand worden kosten in rekening gebracht"
+
+#: Template/Parent/Users/download_invoice.ctp:216 Template/Parent/Users/send_invoice.ctp:169
+#: Template/Users/send_invoice.ctp:137 Template/Users/view_invoice.ctp:171
+msgid "Date"
+msgstr "Datum"
+
+#: Template/Parent/Users/download_invoice.ctp:218 Template/Parent/Users/send_invoice.ctp:171
+#: Template/Users/send_invoice.ctp:139 Template/Users/view_invoice.ctp:173
+msgid "Attendance Start Time"
+msgstr "Aanwezigheidstijd"
+
+#: Template/Parent/Users/download_invoice.ctp:219 Template/Users/send_invoice.ctp:140
+#: Template/Users/view_invoice.ctp:174
+msgid "Attendance End Time "
+msgstr "Attendance eindtijd "
+
+#: Template/Parent/Users/download_invoice.ctp:220 Template/Users/view_invoice.ctp:175
+msgid "Overtime "
+msgstr "Na een tijdje "
+
+#: Template/Parent/Users/download_invoice.ctp:222 Template/Users/view_invoice.ctp:177
+msgid "Overtime Charges "
+msgstr "Overwerk Kosten "
+
+#: Template/Parent/Users/download_invoice.ctp:223 Template/Parent/Users/send_invoice.ctp:176
+#: Template/Users/send_invoice.ctp:144 Template/Users/view_invoice.ctp:178
+msgid "Plan Charges"
+msgstr "Plan kosten"
+
+#: Template/Parent/Users/download_invoice.ctp:224 Template/Parent/Users/send_invoice.ctp:177
+#: Template/Users/view_invoice.ctp:179
+msgid "Total Charges"
+msgstr "Totale kosten"
+
+#: Template/Parent/Users/download_invoice.ctp:676 Template/Users/send_invoice.ctp:589
+#: Template/Users/view_invoice.ctp:632
+msgid "Your Invoice Summary"
+msgstr "Uw factuuroverzicht"
+
+#: Template/Parent/Users/download_invoice.ctp:682 Template/Parent/Users/send_invoice.ctp:619
+#: Template/Users/send_invoice.ctp:593 Template/Users/view_invoice.ctp:638
+msgid "This Month Charges"
+msgstr "Deze maand kosten"
+
+#: Template/Parent/Users/download_invoice.ctp:686 Template/Parent/Users/send_invoice.ctp:623
+#: Template/Users/send_invoice.ctp:597 Template/Users/view_invoice.ctp:642
+msgid "Previous payment"
+msgstr "Vorige betaling"
+
+#: Template/Parent/Users/download_invoice.ctp:690 Template/Parent/Users/send_invoice.ctp:627
+#: Template/Users/send_invoice.ctp:601 Template/Users/view_invoice.ctp:646
+msgid "Adjustment"
+msgstr "Aanpassing"
+
+#: Template/Parent/Users/download_invoice.ctp:694 Template/Parent/Users/send_invoice.ctp:631
+#: Template/Users/send_invoice.ctp:605 Template/Users/view_invoice.ctp:650
+msgid "Total Payable Amount"
+msgstr "Totaal te betalen bedrag"
+
+#: Template/Parent/Users/guardian_edit.ctp:4 Template/Users/guardian_edit.ctp:4
+msgid "Edit Guardian"
+msgstr "Edit Guardian"
+
+#: Template/Parent/Users/index.ctp:7
+msgid "Parent Admin Panel"
+msgstr "Ouderbeheerderpaneel"
+
+#: Template/Parent/Users/index.ctp:16
+msgid "My Children"
+msgstr "Mijn kinderen"
+
+#: Template/Parent/Users/index.ctp:73
+msgid "Check Attendance"
+msgstr "Check Aanwezigheid"
+
+#: Template/Parent/Users/index.ctp:89 Template/Parent/Users/myinvoices.ctp:37
+msgid "Due Amount"
+msgstr "Te betalen bedrag"
+
+#: Template/Parent/Users/index.ctp:96
+msgid "More info"
+msgstr "Meer informatie"
+
+#: Template/Parent/Users/index.ctp:157
+msgid " Add New Child"
+msgstr " Nieuw kind toevoegen"
+
+#: Template/Parent/Users/index.ctp:174
+msgid "Add New Guardian"
+msgstr "Voeg nieuwe Guardian toe"
+
+#: Template/Parent/Users/index.ctp:190
+msgid "Buy New Service"
+msgstr "Koop nieuwe service"
+
+#: Template/Parent/Users/manage_children.ctp:5 Template/Parent/Users/myinvoices.ctp:5
+msgid "Children"
+msgstr "Kinderen"
+
+#: Template/Parent/Users/manage_children.ctp:18
+msgid "Add new Child"
+msgstr "Voeg nieuw kind toe"
+
+#: Template/Parent/Users/manage_children.ctp:40;100
+msgid "Apply Leave"
+msgstr "Verlof toepassen"
+
+#: Template/Parent/Users/manage_children.ctp:60
+msgid "Apply leave for \"Nina Mcintire\""
+msgstr "Verlof aanvragen voor \\ \"Nina Mcintire \""
+
+#: Template/Parent/Users/manage_children.ctp:66
+msgid "Leave Title *"
+msgstr "Verlaat titel *"
+
+#: Template/Parent/Users/manage_children.ctp:67
+msgid "Leave Title"
+msgstr "Verlaat titel"
+
+#: Template/Parent/Users/manage_children.ctp:72
+msgid "Leave Start Date *"
+msgstr "Vertrekdatum verlaten *"
+
+#: Template/Parent/Users/manage_children.ctp:74
+msgid "leave start date"
+msgstr "startdatum verlaten"
+
+#: Template/Parent/Users/manage_children.ctp:81
+msgid "Leave End Date *"
+msgstr "Einddatum verlaten *"
+
+#: Template/Parent/Users/manage_children.ctp:92 Template/Users/calendar_settings.ctp:200
+msgid "Description"
+msgstr "Omschrijving"
+
+#: Template/Parent/Users/manage_children.ctp:99
+msgid "Cancel"
+msgstr "annuleren"
+
+#: Template/Parent/Users/manage_guardian.ctp:5
+msgid "Guardian Detail"
+msgstr "Guardian Detail"
+
+#: Template/Parent/Users/manage_guardian.ctp:15
+msgid "Guardian List"
+msgstr "Beschermerslijst"
+
+#: Template/Parent/Users/my_services.ctp:12 Template/Parent/Users/myprevious_services.ctp:12
+msgid "My Services List"
+msgstr "Mijn dienstenlijst"
+
+#: Template/Parent/Users/my_services.ctp:18 Template/Parent/Users/myprevious_services.ctp:32
+msgid "monday"
+msgstr "maandag"
+
+#: Template/Parent/Users/my_services.ctp:21 Template/Parent/Users/myprevious_services.ctp:35
+msgid "wednesday"
+msgstr "woensdag"
+
+#: Template/Parent/Users/my_services.ctp:24 Template/Parent/Users/myprevious_services.ctp:38
+msgid "tuesday"
+msgstr "dinsdag"
+
+#: Template/Parent/Users/my_services.ctp:27 Template/Parent/Users/myprevious_services.ctp:41
+msgid "thursday"
+msgstr "donderdag"
+
+#: Template/Parent/Users/my_services.ctp:30 Template/Parent/Users/myprevious_services.ctp:44
+msgid "friday"
+msgstr "vrijdag"
+
+#: Template/Parent/Users/my_services.ctp:60 Template/Parent/Users/myprevious_services.ctp:91;115
+msgid "Start Time :"
+msgstr "Starttijd :"
+
+#: Template/Parent/Users/my_services.ctp:67 Template/Parent/Users/myprevious_services.ctp:98;122
+msgid "No Of Teachers Allotted:"
+msgstr "Aantal toegestane leraren:"
+
+#: Template/Parent/Users/my_services.ctp:69 Template/Parent/Users/myprevious_services.ctp:100;124
+#: Template/Users/child_services.ctp:106
+msgid "Price:"
+msgstr "Prijs:"
+
+#: Template/Parent/Users/myinvoices.ctp:34
+msgid "Invoice Start Period"
+msgstr "Startperiode factuur"
+
+#: Template/Parent/Users/myinvoices.ctp:35
+msgid "Invoice End Period"
+msgstr "Factuur einde periode"
+
+#: Template/Parent/Users/myinvoices.ctp:36
+msgid "Due Date"
+msgstr "Opleveringsdatum"
+
+#: Template/Parent/Users/myprevious_services.ctp:67 Template/Users/child_services.ctp:75
+msgid "Expired"
+msgstr "Verlopen"
+
+#: Template/Parent/Users/myprevious_services.ctp:75 Template/Users/child_services.ctp:82
+msgid "Stoped"
+msgstr "stoped"
+
+#: Template/Parent/Users/myprevious_services.ctp:92;116
+msgid "End Time :"
+msgstr "Eindtijd :"
+
+#: Template/Parent/Users/myprevious_services.ctp:103 Template/Users/child_services.ctp:109
+msgid "Resume Service"
+msgstr "Doorgaan met de service"
+
+#: Template/Parent/Users/myprevious_services.ctp:103 Template/Users/child_services.ctp:109
+msgid "Are you sure you want to Resume Service ?"
+msgstr "Weet je zeker dat je de service wilt hervatten?"
+
+#: Template/Parent/Users/profile_edit.ctp:81 Template/Users/profile_edit.ctp:81
+msgid "General Info"
+msgstr "Algemene informatie"
+
+#: Template/Parent/Users/profile_edit.ctp:235 Template/Users/profile_edit.ctp:235
+msgid "Password Validations"
+msgstr "Wachtwoordvalidaties"
+
+#: Template/Parent/Users/profile_edit.ctp:238;239;240 Template/Parent/Users/reset_password.ctp:27;28;29
+#: Template/Users/profile_edit.ctp:238;239;240 Template/Users/reset_password.ctp:27;28;29
+msgid "A"
+msgstr "EEN"
+
+#: Template/Parent/Users/profile_edit.ctp:238 Template/Parent/Users/reset_password.ctp:27
+#: Template/Users/profile_edit.ctp:238 Template/Users/reset_password.ctp:27
+msgid "lowercase"
+msgstr "kleine letters"
+
+#: Template/Parent/Users/profile_edit.ctp:239 Template/Parent/Users/reset_password.ctp:28
+#: Template/Users/profile_edit.ctp:239
+msgid "capital (uppercase)"
+msgstr "kapitaal (in hoofdletters)"
+
+#: Template/Parent/Users/profile_edit.ctp:240 Template/Parent/Users/reset_password.ctp:29
+#: Template/Users/profile_edit.ctp:240 Template/Users/reset_password.ctp:29
+msgid "number"
+msgstr "aantal"
+
+#: Template/Parent/Users/profile_edit.ctp:241 Template/Parent/Users/reset_password.ctp:30
+#: Template/Users/profile_edit.ctp:241 Template/Users/reset_password.ctp:30
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Template/Parent/Users/profile_edit.ctp:241 Template/Parent/Users/reset_password.ctp:30
+#: Template/Users/profile_edit.ctp:241 Template/Users/reset_password.ctp:30
+msgid "8 characters"
+msgstr "8 tekens"
+
+#: Template/Parent/Users/reset_password.ctp:4 Template/Users/reset_password.ctp:4
+#: Template/Users/update_password.ctp:4 Template/Users/update_password_app.ctp:4
+msgid "Reset Your Password"
+msgstr "Stel je wachtwoord opnieuw in"
+
+#: Template/Parent/Users/reset_password.ctp:10 Template/Users/reset_password.ctp:10
+msgid "Go to parent list"
+msgstr "Ga naar de bovenliggende lijst"
+
+#: Template/Parent/Users/reset_password.ctp:25 Template/Users/reset_password.ctp:25
+#: Template/Users/update_password.ctp:20
+msgid "New Password  *"
+msgstr "Nieuw paswoord *"
+
+#: Template/Parent/Users/reset_password.ctp:27;28 Template/Users/profile_edit.ctp:238;239
+#: Template/Users/reset_password.ctp:27;28
+msgid "letter"
+msgstr "brief"
+
+#: Template/Parent/Users/reset_password.ctp:35 Template/Users/update_password.ctp:25
+#: Template/Users/update_password_app.ctp:25
+msgid "Confirm Password  *"
+msgstr "Bevestig wachtwoord *"
+
+#: Template/Parent/Users/reset_password.ctp:39 Template/Users/reset_password.ctp:39
+#: Template/Users/update_password.ctp:29 Template/Users/update_password_app.ctp:29
+msgid "Reset Password"
+msgstr "Reset wachtwoord"
+
+#: Template/Parent/Users/select_child.ctp:8
+msgid "Select Child *"
+msgstr "Selecteer Kind *"
+
+#: Template/Parent/Users/select_child.ctp:15
+msgid "No Child Available"
+msgstr "Geen kind beschikbaar"
+
+#: Template/Parent/Users/select_plan.ctp:12
+msgid "Joining date *"
+msgstr "Lidmaatschapsdatum *"
+
+#: Template/Parent/Users/select_plan.ctp:23 Template/Users/select_plan.ctp:11
+msgid "Select Plan"
+msgstr "Selecteer Plan"
+
+#: Template/Parent/Users/select_plan.ctp:36
+msgid "Select payment option *"
+msgstr "Selecteer betalingsoptie *"
+
+#: Template/Parent/Users/select_plan.ctp:68
+msgid "Select plan repeat interval *"
+msgstr "Selecteer planherhaalinterval *"
+
+#: Template/Parent/Users/select_plan.ctp:76
+msgid "Every Week"
+msgstr "Elke week"
+
+#: Template/Parent/Users/select_plan.ctp:83
+msgid "Every 2nd & 4th Week"
+msgstr "Elke 2e en 4e week"
+
+#: Template/Parent/Users/select_plan.ctp:90
+msgid "Every Ist & 3rd Week"
+msgstr "Elke Ist & 3e week"
+
+#: Template/Parent/Users/select_plan.ctp:99
+msgid "day"
+msgstr "dag"
+
+#: Template/Parent/Users/send_invoice.ctp:44
+msgid "Father Name :"
+msgstr "Vader Naam:"
+
+#: Template/Parent/Users/send_invoice.ctp:51 Template/Users/send_invoice.ctp:50
+msgid "Invoice Number:"
+msgstr "Factuurnummer:"
+
+#: Template/Parent/Users/send_invoice.ctp:56
+msgid "Payable Amount :"
+msgstr "Te betalen bedrag :"
+
+#: Template/Parent/Users/send_invoice.ctp:172
+msgid "Attendance End Time"
+msgstr "Attendance eindtijd"
+
+#: Template/Parent/Users/send_invoice.ctp:173 Template/Users/send_invoice.ctp:141
+msgid "Overtime"
+msgstr "Na een tijdje"
+
+#: Template/Parent/Users/send_invoice.ctp:175 Template/Users/send_invoice.ctp:143
+msgid "Overtime Charges"
+msgstr "Overwerk Kosten"
+
+#: Template/Parent/Users/send_invoice.ctp:443
+msgid "00:00:00"
+msgstr "00:00:00"
+
+#: Template/Parent/Users/send_invoice.ctp:443
+msgid "Hours"
+msgstr "uren"
+
+#: Template/Parent/Users/send_invoice.ctp:444;565 Template/Users/view_invoice.ctp:465
+msgid "N/A"
+msgstr "N / A"
+
+#: Template/Parent/Users/send_invoice.ctp:635 Template/Users/send_invoice.ctp:609
+#: Template/Users/view_invoice.ctp:654
+msgid "Invoice Period"
+msgstr "Factuurperiode"
+
+#: Template/Users/add_child.ctp:18
+msgid "Go to children list"
+msgstr "Ga naar de kinderlijst"
+
+#: Template/Users/add_employee.ctp:54 Template/Users/emp_edit.ctp:61
+msgid "First Name  *"
+msgstr "Voornaam *"
+
+#: Template/Users/add_employee.ctp:58 Template/Users/emp_edit.ctp:65
+msgid "Last Name  *"
+msgstr "Achternaam *"
+
+#: Template/Users/add_employee.ctp:76 Template/Users/addparents.ctp:77 Template/Users/emp_edit.ctp:78
+msgid "BSN No. *"
+msgstr "BSN Nr. *"
+
+#: Template/Users/add_employee.ctp:101 Template/Users/emp_edit.ctp:117
+msgid "Joining Date *"
+msgstr "Lidmaatschapsdatum *"
+
+#: Template/Users/add_guardian.ctp:52
+msgid "First Name "
+msgstr "Voornaam "
+
+#: Template/Users/add_guardian.ctp:68
+msgid "Email Address "
+msgstr "E-mailadres "
+
+#: Template/Users/add_guardian.ctp:74
+msgid "Mobile Number "
+msgstr "Mobiel nummer "
+
+#: Template/Users/add_guardian.ctp:82
+msgid "Date of Birth "
+msgstr "Geboortedatum "
+
+#: Template/Users/add_guardian.ctp:99
+msgid "Relation with child "
+msgstr "Relatie met kind "
+
+#: Template/Users/add_guardian.ctp:106
+msgid "Please specify relation with child "
+msgstr "Specificeer de relatie met het kind "
+
+#: Template/Users/add_guardian.ctp:112
+msgid "Pin Code "
+msgstr "Pincode "
+
+#: Template/Users/add_guardian.ctp:120
+msgid "Address (Area and Street) "
+msgstr "Adres (gebied en straat) "
+
+#: Template/Users/add_guardian.ctp:127
+msgid "City/District "
+msgstr "Stadsdeel "
+
+#: Template/Users/add_services.ctp:28 Template/Users/edit_services.ctp:28
+msgid "add service details"
+msgstr "voeg servicegegevens toe"
+
+#: Template/Users/add_services.ctp:46 Template/Users/edit_services.ctp:46
+msgid "Service Day"
+msgstr "Servicedag"
+
+#: Template/Users/add_services.ctp:47 Template/Users/edit_services.ctp:47
+msgid "-- Please select day --"
+msgstr "- Selecteer een dag -"
+
+#: Template/Users/add_services.ctp:68
+msgid "Min Age *</label>\t\t\t\t"
+msgstr "Min Leeftijd * </ label> \\ t \\ t \\ t \\ t"
+
+#: Template/Users/add_services.ctp:74 Template/Users/child_services.ctp:101;126 Template/Users/edit_services.ctp:74
+msgid "Max Age"
+msgstr "Max leeftijd"
+
+#: Template/Users/add_services.ctp:119 Template/Users/edit_services.ctp:109
+msgid "Max. Batch Subscription"
+msgstr "Max. Batchabonnement"
+
+#: Template/Users/add_services.ctp:125 Template/Users/edit_services.ctp:113
+msgid "Add no of Teachers"
+msgstr "Voeg een aantal docenten toe"
+
+#: Template/Users/add_services.ctp:149 Template/Users/edit_services.ctp:136
+msgid "Add Child Group Name"
+msgstr "Voeg de naam van de kindergroep toe"
+
+#: Template/Users/add_services.ctp:156 Template/Users/edit_services.ctp:143
+msgid "Add No of Childs In This Group"
+msgstr "Voeg No of Childs In This Group toe"
+
+#: Template/Users/add_services.ctp:162 Template/Users/edit_services.ctp:149
+msgid "Add No of Teachers In This Group"
+msgstr "Voeg een van de leraren in deze groep toe"
+
+#: Template/Users/add_services.ctp:189 Template/Users/edit_services.ctp:173
+msgid "Price Weekly ("
+msgstr "Prijs per week ("
+
+#: Template/Users/add_services.ctp:197 Template/Users/edit_services.ctp:181
+msgid "Price Monthly ("
+msgstr "Prijs Maandelijks ("
+
+#: Template/Users/add_services.ctp:205 Template/Users/edit_services.ctp:189
+msgid "Price Yearly ("
+msgstr "Prijs Jaarlijks ("
+
+#: Template/Users/add_services.ctp:214 Template/Users/edit_services.ctp:198
+msgid "Add Service"
+msgstr "Service toevoegen"
+
+#: Template/Users/addparents.ctp:5 Template/Users/index.ctp:150
+msgid "Add Parent"
+msgstr "Voeg ouder toe"
+
+#: Template/Users/addparents.ctp:15
+msgid "Please enter parent details"
+msgstr "Voer bovenliggende gegevens in"
+
+#: Template/Users/addparents.ctp:100
+msgid "Bank Name *"
+msgstr "Banknaam *"
+
+#: Template/Users/addparents.ctp:106
+msgid "Account Number *"
+msgstr "Rekeningnummer *"
+
+#: Template/Users/attendance.ctp:108
+msgid " Total Present"
+msgstr " Totaal aanwezig"
+
+#: Template/Users/attendance_settings.ctp:5
+msgid "Attendance Relief"
+msgstr "Aanwezigheid Relief"
+
+#: Template/Users/attendance_settings.ctp:12
+msgid "Attendance Relief Time"
+msgstr "Aanwezigheid Relief Time"
+
+#: Template/Users/attendance_settings.ctp:21
+msgid "Relief time before class start"
+msgstr "Relieftijd voor aanvang van de les"
+
+#: Template/Users/attendance_settings.ctp:27
+msgid "Relief time after class end"
+msgstr "Relieftijd na het einde van de les"
+
+#: Template/Users/attendance_settings.ctp:45
+msgid "Overtime Cost"
+msgstr "Overwerk Kosten"
+
+#: Template/Users/attendance_settings.ctp:53
+msgid "Overtime Cost for one hour"
+msgstr "Overuren Kosten voor een uur"
+
+#: Template/Users/basic_info.ctp:13
+msgid "Child Details"
+msgstr "Details van het kind"
+
+#: Template/Users/basic_info.ctp:19
+msgid "Go to child list"
+msgstr "Ga naar de kinderlijst"
+
+#: Template/Users/basic_info.ctp:29
+msgid "Persoonsgegevens"
+msgstr "Persoonsgegevens"
+
+#: Template/Users/basic_info.ctp:30
+msgid "Gedrag en Sociaal"
+msgstr "Gedrag en Sociaal"
+
+#: Template/Users/basic_info.ctp:31
+msgid "Medisch en Emotioneel"
+msgstr "Medisch en Emotioneel"
+
+#: Template/Users/calendar_settings.ctp:6
+msgid "Manage Calendar"
+msgstr "Beheer de agenda"
+
+#: Template/Users/calendar_settings.ctp:15
+msgid "Yearly calendar"
+msgstr "Jaarlijkse kalender"
+
+#: Template/Users/calendar_settings.ctp:27
+msgid "School calendar"
+msgstr "Schoolkalender"
+
+#: Template/Users/calendar_settings.ctp:38
+msgid "School calendar Start"
+msgstr "Schoolkalender Start"
+
+#: Template/Users/calendar_settings.ctp:51
+msgid "School calendar End"
+msgstr "Schoolkalender Einde"
+
+#: Template/Users/calendar_settings.ctp:68
+msgid "Holiday Calendar"
+msgstr "Feestdagkalender"
+
+#: Template/Users/calendar_settings.ctp:71
+msgid "Create new holiday"
+msgstr "Maak een nieuwe vakantie"
+
+#: Template/Users/calendar_settings.ctp:85
+msgid "Holiday List"
+msgstr "Vakantielijst"
+
+#: Template/Users/calendar_settings.ctp:101
+msgid "Holiday Start"
+msgstr "Start vakantie"
+
+#: Template/Users/calendar_settings.ctp:105
+msgid "Holiday End"
+msgstr "Holiday End"
+
+#: Template/Users/calendar_settings.ctp:123;142
+msgid "Create New Holiday"
+msgstr "Maak een nieuwe vakantie"
+
+#: Template/Users/calendar_settings.ctp:149
+msgid "Holiday Name *"
+msgstr "Vakantie naam *"
+
+#: Template/Users/calendar_settings.ctp:154
+msgid "Holiday Start *"
+msgstr "Vakantie start *"
+
+#: Template/Users/calendar_settings.ctp:177
+msgid "Holiday End *"
+msgstr "Vakantie einde *"
+
+#: Template/Users/calendar_settings.ctp:209
+msgid "Create"
+msgstr "creëren"
+
+#: Template/Users/calendar_settings.ctp:228
+msgid "Edit Holiday"
+msgstr "Feest bewerken"
+
+#: Template/Users/child_edit.ctp:49
+msgid "Change"
+msgstr "Verandering"
+
+#: Template/Users/child_services.ctp:12 Template/Users/manage_services.ctp:14
+msgid "Services List"
+msgstr "Services lijst"
+
+#: Template/Users/child_services.ctp:21
+msgid "No Services Taken By Parent"
+msgstr "Geen services genomen door de ouder"
+
+#: Template/Users/child_services.ctp:96;121
+msgid "Child Name"
+msgstr "Naam van het kind"
+
+#: Template/Users/child_services.ctp:100;125 Template/Users/edit_services.ctp:68
+msgid "Min Age"
+msgstr "Min Age"
+
+#: Template/Users/child_services.ctp:139
+msgid "Stop Service"
+msgstr "Stop service"
+
+#: Template/Users/child_services.ctp:139
+msgid "Are you sure you want to Stop Service ?"
+msgstr "Weet je zeker dat je de service wilt stoppen?"
+
+#: Template/Users/edit_parents.ctp:5
+msgid "Edit Parent"
+msgstr "Bewerk ouder"
+
+#: Template/Users/edit_services.ctp:117
+msgid "Divide Child And Teachers In Groups"
+msgstr "Verdeel kinderen en leerkrachten in groepen"
+
+#: Template/Users/edit_services.ctp:120
+msgid "Create group"
+msgstr "Maak een groep"
+
+#: Template/Users/edit_services.ctp:158
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: Template/Users/emp_profile.ctp:71
+msgid "Residance"
+msgstr "Residance"
+
+#: Template/Users/forgot_password.ctp:2 Template/Users/login.ctp:2
+msgid "Caring Little Explorers !!"
+msgstr "Zorgen voor kleine ontdekkingsreizigers !!"
+
+#: Template/Users/forgot_password.ctp:12
+msgid "Forgot Your Password ?"
+msgstr "Uw wachtwoord vergeten ?"
+
+#: Template/Users/forgot_password.ctp:20
+msgid "Back to login"
+msgstr "Terug naar Inloggen"
+
+#: Template/Users/guardian_edit.ctp:54
+msgid " Upload Image"
+msgstr " Afbeelding uploaden"
+
+#: Template/Users/index.ctp:7
+msgid "BSO Admin Panel"
+msgstr "BSO Admin Panel"
+
+#: Template/Users/index.ctp:19
+msgid "Total Students"
+msgstr "Totaal studenten"
+
+#: Template/Users/index.ctp:39
+msgid "Student Available Today"
+msgstr "Student vandaag beschikbaar"
+
+#: Template/Users/index.ctp:59
+msgid "Total Services"
+msgstr "Total Services"
+
+#: Template/Users/index.ctp:79
+msgid "Total Teachers"
+msgstr "Totaal leraren"
+
+#: Template/Users/index.ctp:142
+msgid "Add New Employee"
+msgstr "Nieuwe werknemer toevoegen"
+
+#: Template/Users/index.ctp:157
+msgid "Add New Parent"
+msgstr "Nieuwe ouder toevoegen"
+
+#: Template/Users/invoice_settings.ctp:5
+msgid "Invoice Management"
+msgstr "Invoice Management"
+
+#: Template/Users/invoice_settings.ctp:16
+msgid "Manage Invoice"
+msgstr "Factuur beheren"
+
+#: Template/Users/invoice_settings.ctp:21
+msgid "Generate invoice monthly"
+msgstr "Genereer de factuur maandelijks"
+
+#: Template/Users/invoice_settings.ctp:33
+msgid "Generate invoice weekly"
+msgstr "Genereer wekelijks een factuur"
+
+#: Template/Users/invoice_settings.ctp:45
+msgid "Generate invoice automatic"
+msgstr "Genereer factuur automatisch"
+
+#: Template/Users/invoice_settings.ctp:57
+msgid "Generate invoice Manually"
+msgstr "Factuur handmatig genereren"
+
+#: Template/Users/login.ctp:13
+msgid "Sign in to start your session"
+msgstr "Meld u aan om uw sessie te starten"
+
+#: Template/Users/login.ctp:30
+msgid "Remember Me"
+msgstr "Onthoud mij"
+
+msgid "Select your Language"
+msgstr "Selecteer je taal"
+
+msgid "Please select language"
+msgstr "Selecteer je taal"
+
+#: Template/Users/login.ctp:36
+msgid "Sign In"
+msgstr "Aanmelden"
+
+#: Template/Users/login.ctp:46
+msgid "I forgot my password?"
+msgstr "Ik ben mijn wachtwoord vergeten?"
+
+#: Template/Users/manage_services.ctp:39 Template/Users/select_plan.ctp:20
+msgid "Start Time "
+msgstr "Starttijd "
+
+#: Template/Users/manage_services.ctp:64
+msgid "Tussenschoolse"
+msgstr "Tussenschoolse"
+
+#: Template/Users/manage_services.ctp:69
+msgid "Day:"
+msgstr "Dag:"
+
+#: Template/Users/manage_services.ctp:69
+msgid "Dinsdag"
+msgstr "dinsdag"
+
+#: Template/Users/manage_services.ctp:72
+msgid "10:00 am"
+msgstr "10:00"
+
+#: Template/Users/manage_services.ctp:75
+msgid "12:30 pm"
+msgstr "12:30 uur"
+
+#: Template/Users/parent_profile.ctp:5
+msgid "Parent Detail"
+msgstr "Bovenliggend detail"
+
+#: Template/Users/parent_profile.ctp:15
+msgid "Details"
+msgstr "Details"
+
+#: Template/Users/parent_profile.ctp:19
+msgid "Add new child"
+msgstr "Voeg een nieuw kind toe"
+
+#: Template/Users/parent_profile.ctp:25
+msgid "Add new guardian"
+msgstr "Voeg een nieuwe voogd toe"
+
+#: Template/Users/parent_profile.ctp:121
+msgid "Account Number"
+msgstr "Rekeningnummer"
+
+#: Template/Users/parents.ctp:15
+msgid "Parent List"
+msgstr "Bovenliggende lijst"
+
+#: Template/Users/parents.ctp:39
+msgid "BSN No."
+msgstr "BSN nummer"
+
+#: Template/Users/plan_settings.ctp:5 Template/Users/select_plan.ctp:5
+msgid "Plan setting for overtime"
+msgstr "Planstelling voor overuren"
+
+#: Template/Users/plan_settings.ctp:14
+msgid "Select Child"
+msgstr "Selecteer Kind"
+
+#: Template/Users/plan_settings.ctp:82
+msgid "Select"
+msgstr "kiezen"
+
+#: Template/Users/reset_password.ctp:28
+msgid "capital(uppercase)"
+msgstr "kapitaal (hoofdletters)"
+
+#: Template/Users/select_plan.ctp:44
+msgid "Assign Plan"
+msgstr "Plan toewijzen"
+
+#: Template/Users/send_invoice.ctp:42
+msgid "DOB : "
+msgstr "DOB: "
+
+#: Template/Users/send_invoice.ctp:43
+msgid "Father Name : "
+msgstr "Vader Naam: "
+
+#: Template/Users/send_invoice.ctp:44
+msgid "REGD ID : "
+msgstr "REGD ID: "
+
+#: Template/Users/send_invoice.ctp:45
+msgid "Registration Date : "
+msgstr "Registratie datum : "
+
+#: Template/Users/send_invoice.ctp:46
+msgid "School Name : "
+msgstr "Schoolnaam : "
+
+#: Template/Users/send_invoice.ctp:51
+msgid "Invoice Date : "
+msgstr "Factuur datum : "
+
+#: Template/Users/send_invoice.ctp:52
+msgid "Relief Time Before Class : "
+msgstr "Relief Tijd voor Klasse: "
+
+#: Template/Users/send_invoice.ctp:53
+msgid "Relief Time After Class : "
+msgstr "Relief Time After Class: "
+
+#: Template/Users/send_invoice.ctp:54
+msgid "Pay by Date : "
+msgstr "Betaal op datum: "
+
+#: Template/Users/send_invoice.ctp:55
+msgid "Payable Amount : "
+msgstr "Te betalen bedrag : "
+
+#: Template/Users/service_settings.ctp:5
+msgid "Service Setting Management"
+msgstr "Service Setting Management"
+
+#: Template/Users/service_settings.ctp:16
+msgid "Manage Service"
+msgstr "Beheer de service"
+
+#: Template/Users/service_settings.ctp:21
+msgid "Price Weekly Service"
+msgstr "Prijs wekelijkse service"
+
+#: Template/Users/service_settings.ctp:33
+msgid "Price Monthly Service"
+msgstr "Prijs Maandelijkse service"
+
+#: Template/Users/service_settings.ctp:45
+msgid "Price Yearly Service"
+msgstr "Prijs Jaarlijkse service"
+
+#: Template/Users/services_assign.ctp:5
+msgid "Assign Teacher"
+msgstr "Wijs leraar toe"
+
+#: Template/Users/services_assign.ctp:14
+msgid "Regular Assign"
+msgstr "Regelmatig toewijzen"
+
+#: Template/Users/services_assign.ctp:55
+msgid "Overtime Assign"
+msgstr "Overuren toewijzen"
+
+#: Template/Users/services_assign.ctp:97
+msgid "Assigned Teacher"
+msgstr "Toegekende leraar"
+
+#: Template/Users/services_assign.ctp:117
+msgid "Assigned Plan"
+msgstr "Toegewezen plan"
+
+#: Template/Users/services_assign.ctp:277
+msgid "Close"
+msgstr "Dichtbij"
+
+#: Template/Users/update_password.ctp:22 Template/Users/update_password_app.ctp:22
+msgid "Password must contain atleast one capital letter and alphanumeric characters."
+msgstr "Wachtwoord moet ten minste één hoofdletter en alfanumerieke tekens bevatten."
+
+#: Template/Users/update_password_app.ctp:20
+msgid "New Password  * "
+msgstr "Nieuw paswoord * "

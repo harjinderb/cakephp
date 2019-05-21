@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="../helpers/media/layout.css?v=2018.4.3487" />
+
+
+    <!-- helper libraries -->
+    <script src="../helpers/jquery-1.12.2.min.js" type="text/javascript"></script>
+
+    <!-- daypilot libraries -->
+    <script src="../js/daypilot-all.min.js?v=2018.4.3487" type="text/javascript"></script>
+
+    <style>
+        input {
+            width: 500px;
+        }
+        body {
+            padding: 10px;
+        }
+
+
+    </style>
+</head>
+<body style="padding: 10px;">
+
+<h1>Event</h1>
+
+<div class="space">
+    Name:<br/>
+    <input type="text" name="name" autofocus />
+</div>
+
+<div class="space">
+    <button onclick="javascript:DayPilot.Modal.closeSerialized();">OK</button>
+    <button onclick="javascript:DayPilot.Modal.close();">Cancel</button>
+</div>
+
+</body>
+</html>
